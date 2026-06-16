@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contexto Física</title>
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'css/estilos.css' %}" />
+</head>
+<body>
+  <header class="cabecera">
+    <h1 class="titulo">Contexto <span class="titulo-fisica">Física</span></h1>
+    <div class="contador-cabecera">
+      <span id="contador-intentos">0 intentos</span>
+      <span class="sep">·</span>
+      <span id="contador-pistas">0 pistas usadas</span>
+    </div>
+  </header>
+
+  <main class="contenido">
+    <section class="seccion-input">
+      <form id="forma-guess" autocomplete="off">
+        <input
+          id="input-palabra"
+          type="text"
+          placeholder="Escribe una palabra de física..."
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button type="submit" class="btn-primario">Adivinar</button>
+      </form>
+      <p id="mensaje-error" class="mensaje-error" aria-live="polite"></p>
+    </section>
+
+    <section class="seccion-pistas" id="seccion-pistas">
+      <button id="btn-pista" class="btn-secundario">Revelar pista</button>
+      <ol id="lista-pistas" class="lista-pistas"></ol>
+    </section>
+
+    <section class="seccion-intentos" id="seccion-intentos">
+      <h2 class="subtitulo">Intentos</h2>
+      <ul id="lista-intentos" class="lista-intentos" aria-label="Lista de intentos"></ul>
+    </section>
+  </main>
+
+  <div id="banner-victoria" class="banner-victoria" hidden>
+    <div class="banner-contenido">
+      <h2>¡Lo lograste!</h2>
+      <p>La palabra era <strong id="palabra-revelada"></strong></p>
+      <p id="texto-victoria"></p>
+    </div>
+  </div>
+
+  <script src="{% static 'js/juego.js' %}"></script>
+</body>
+</html>
