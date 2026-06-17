@@ -598,5 +598,2105 @@
 "Según la tercera ley del movimiento clásico de Newton, siempre existe en la naturaleza un par inseparable de fuerzas de acción y esta fuerza.",
 "Fuerza mecánica que se opone a otra fuerza de contacto inicial, o el proceso a nivel nuclear que libera inmensa energía termal."
 ]
+},
+{
+"palabra": "experimento",
+"tipo": "sustantivo",
+"pistas": [
+"Fue el arma metódica principal de Galileo para refutar siglos de filosofía aristotélica sobre la caída libre de los cuerpos.",
+"Procedimiento controlado empíricamente para validar o refutar una hipótesis teórica mediante la recopilación de datos directos.",
+"En el método científico, es la prueba de fuego indispensable donde los modelos matemáticos se enfrentan a la realidad del laboratorio.",
+"Ensayo práctico y repetible diseñado para aislar variables y estudiar rigurosamente un suceso físico determinado."
+]
+},
+{
+"palabra": "líquido",
+"tipo": "sustantivo",
+"pistas": [
+"A diferencia de los cristales rígidos, su red molecular carece de orden geométrico a largo plazo pero mantiene cohesión macroscópica.",
+"Estado de agregación prácticamente incompresible que fluye con libertad natural pero no se expande para llenar todo su contenedor.",
+"Según la mecánica de fluidos elemental, es el estado material continuo de sustancias elementales como el agua a temperatura ambiente.",
+"Sustancia de volumen definido pero forma variable que adopta exactamente el contorno del recipiente que la aloja."
+]
+},
+{
+"palabra": "solución",
+"tipo": "sustantivo",
+"pistas": [
+"En las intrincadas ecuaciones diferenciales de la física teórica, encontrar esta respuesta es el objetivo final y absoluto del cálculo.",
+"Físico-químicamente, es una mezcla completamente homogénea a nivel molecular y termodinámico de dos o más sustancias distintas.",
+"Resultado analítico exacto que satisface un problema matemático, o una mezcla física donde un compuesto se disuelve por completo en agua.",
+"Respuesta final correcta a un ejercicio numérico de cinemática o preparación acuosa transparente e uniforme."
+]
+},
+{
+"palabra": "real",
+"tipo": "adjetivo",
+"pistas": [
+"En la física de lentes y espejos curvos, describe a una imagen enfocada que efectivamente puede ser proyectada sobre una pantalla física.",
+"Califica a aquellos gases termodinámicos naturales que no obedecen de manera perfecta ni estricta la ecuación de estado ideal.",
+"Distingue a las fuerzas mecánicas comprobables desde un marco inercial frente a las interacciones ficticias de los marcos acelerados.",
+"Relativo a lo que existe verdaderamente de forma objetiva en el universo físico y no es imaginario o meramente idealizado."
+]
+},
+{
+"palabra": "área",
+"tipo": "sustantivo",
+"pistas": [
+"Bajo la curva trazada de un gráfico bidimensional de velocidad contra tiempo, este valor geométrico equivale al desplazamiento métrico total.",
+"Magnitud de extensión física que se requiere cuantificar al calcular el flujo de un campo magnético a través de una espira conductora plana.",
+"En el cálculo de la presión estática de fluidos, es el divisor geométrico fundamental sobre el cual se distribuye la fuerza perpendicular.",
+"Medida analítica de la extensión de una superficie plana acotada que en el Sistema Internacional se expresa en metros cuadrados."
+]
+},
+{
+"palabra": "fenómeno",
+"tipo": "sustantivo",
+"pistas": [
+"Es cualquier suceso empírico y asombroso del cosmos que la ciencia estricta intenta describir y predecir con modelos exactos.",
+"Manifestación natural y dinámica que ocurre en el espaciotiempo, susceptible de ser medida, catalogada y analizada rigurosamente.",
+"Todo evento físico, químico o meteorológico comprobable que altera las propiedades dinámicas de un sistema material o su entorno.",
+"Hecho o acontecimiento natural perceptible, como un eclipse solar o la refracción lumínica, que se estudia en las ciencias exactas."
+]
+},
+{
+"palabra": "estrella",
+"tipo": "sustantivo",
+"pistas": [
+"Funciona ininterrumpidamente como un gigantesco horno cósmico que sintetiza elementos pesados luchando contra su propio colapso gravitatorio.",
+"Esfera masiva de plasma autoluminosa mantenida en estricto equilibrio hidrostático gracias a las reacciones de fusión atómica en su centro.",
+"En astrofísica moderna, su diagrama de Hertzsprung-Russell clasifica a este cuerpo masivo celeste según su luminosidad intrínseca y temperatura.",
+"Enorme cuerpo astronómico incandescente compuesto primordialmente de hidrógeno y helio que brilla con luz propia en el inmenso firmamento."
+]
+},
+{
+"palabra": "componente",
+"tipo": "sustantivo",
+"pistas": [
+"Es cada una de las sombras matemáticas perpendiculares que proyecta una flecha cinemática sobre los ejes cartesianos referenciales.",
+"Parte constitutiva, básica e individual de una magnitud direccional compuesta o de un circuito eléctrico integrado y complejo.",
+"En trigonometría aplicada a fuerzas mecánicas, resulta de multiplicar el módulo principal por la función seno o coseno del ángulo inclinado.",
+"Elemento básico o parte que, junto con otras piezas fundamentales, forma un sistema físico mayor o un arreglo compuesto."
+]
+},
+{
+"palabra": "posición",
+"tipo": "sustantivo",
+"pistas": [
+"Es la coordenada espacial exacta y numérica que ocupa transitoriamente una partícula puntual en el vasto escenario del espaciotiempo.",
+"Flecha cinemática fundamental e inicial que se traza desde el origen inamovible del sistema de referencia hasta la ubicación actual del móvil.",
+"Su derivada temporal directa y rigurosa define matemáticamente el comportamiento de la velocidad instantánea de un objeto en movimiento.",
+"Magnitud orientada que indica el lugar físico específico y las coordenadas métricas donde se encuentra un cuerpo en un instante dado."
+]
+},
+{
+"palabra": "serie",
+"tipo": "sustantivo",
+"pistas": [
+"En este tipo específico y riguroso de configuración, la corriente eléctrica que atraviesa un circuito no tiene caminos alternativos por donde dividirse.",
+"Disposición secuencial de elementos resistivos donde la oposición equivalente global es simplemente la suma aritmética de todas las individuales.",
+"Configuración topológica lineal de resistores o capacitores unidos uno a continuación del otro compartiendo una sola rama conductora.",
+"Sucesión ordenada de componentes electrónicos básicos conectados únicamente por sus extremos terminales formando una cadena eléctrica única."
+]
+},
+{
+"palabra": "enlace",
+"tipo": "sustantivo",
+"pistas": [
+"Es la fuerza electromagnética microscópica, tenaz y permanente que mantiene fuertemente unidos a los átomos dentro de una estructura cristalina.",
+"Interacción atractiva de profunda naturaleza cuántica que permite a los electrones de valencia compartirse entre múltiples núcleos cercanos.",
+"Puede clasificarse físicamente como covalente, iónico o metálico dependiendo de cómo interactúan las nubes electrónicas de los elementos.",
+"Unión química invisible, poderosa y estable que conecta a dos o más entidades atómicas para formar una molécula material compleja."
+]
+},
+{
+"palabra": "dimensión",
+"tipo": "sustantivo",
+"pistas": [
+"La revolucionaria teoría de cuerdas postula matemáticamente la existencia de varias de estas métricas, enrolladas a escalas subatómicas minúsculas.",
+"Expresa analíticamente la naturaleza física de una magnitud derivada utilizando únicamente magnitudes fundamentales como longitud, masa y tiempo.",
+"Cada una de las métricas espaciales y temporales ortogonales totalmente necesarias para describir la ubicación de un suceso en la relatividad.",
+"Magnitud métrica del espacio euclidiano, como el largo, el ancho o la profundidad geométrica de un cuerpo físico medible."
+]
+},
+{
+"palabra": "núcleo",
+"tipo": "sustantivo",
+"pistas": [
+"Rutherford descubrió empíricamente su minúscula existencia espacial tras bombardear una delgada lámina de oro puro con corpúsculos alfa pesados.",
+"Región central extremadamente densa y masiva de un sistema atómico donde reside en la práctica casi toda su masa en reposo absoluto.",
+"Su fuerte inestabilidad física en isótopos pesados artificiales o naturales provoca emisiones de partículas elementales y decaimiento beta.",
+"Parte central, minúscula y positivamente cargada del átomo básico, compuesta de forma exclusiva por protones y neutrones apelmazados."
+]
+},
+{
+"palabra": "potencia",
+"tipo": "sustantivo",
+"pistas": [
+"Define dinámicamente qué tan rápido se agota la energía útil almacenada en una batería química o qué tan pronto acelera un pesado coche.",
+"Magnitud numérica estricta que cuantifica la rapidez temporal incesante con la que se realiza o consume un trabajo mecánico o térmico.",
+"En un circuito eléctrico continuo y estable, se calcula fácilmente multiplicando el voltaje aplicado por la intensidad de corriente que circula.",
+"Cantidad de energía transferida, suministrada o consumida por unidad de tiempo, cuya unidad métrica en el Sistema Internacional es el vatio."
+]
+},
+{
+"palabra": "información",
+"tipo": "sustantivo",
+"pistas": [
+"El célebre y minúsculo demonio teórico de Maxwell necesita recolectarla constantemente en su puerta para intentar violar las leyes de la termodinámica.",
+"En mecánica estadística avanzada, su dramática pérdida macroscópica está íntimamente relacionada con el inexorable aumento del desorden entrópico.",
+"Es el contenido causal que, según los teoremas clásicos, resulta absolutamente incapaz de escapar del horizonte de sucesos de un agujero negro.",
+"Conjunto de datos lógicos organizados y transmitidos físicamente mediante señales pulsantes o bits eléctricos dentro de un sistema comunicativo."
+]
+},
+{
+"palabra": "volumen",
+"tipo": "sustantivo",
+"pistas": [
+"Cuando un cubo cristalino de hielo se derrite, este parámetro espacial disminuye anómalamente a pesar de mantenerse la masa total intacta.",
+"Magnitud física extensiva que cuantifica detalladamente la porción del espacio euclidiano de tres ejes métricos ocupado por un objeto material.",
+"En termodinámica de gases, su cambio o alteración drástica a presión constante resulta en la realización de trabajo mecánico de expansión.",
+"Medida tridimensional directa del espacio físico vacío o lleno que ocupa un cuerpo, expresada internacionalmente en metros cúbicos."
+]
+},
+{
+"palabra": "universo",
+"tipo": "sustantivo",
+"pistas": [
+"Su vertiginosa y comprobada expansión acelerada actual se atribuye teóricamente a la influencia de una misteriosa fuerza repulsiva oscura.",
+"Sistema termodinámico definitivo, cerrado y absolutamente aislado, que contiene irremediablemente toda la materia y energía existentes.",
+"La cosmología moderna y rigurosa estudia su lejano origen hace miles de millones de años a partir de una singularidad increíblemente densa.",
+"Conjunto total, infinito o finito, del espaciotiempo continuo, la materia cósmica inmensa y las inflexibles leyes físicas que los rigen."
+]
+},
+{
+"palabra": "sólido",
+"tipo": "sustantivo",
+"pistas": [
+"En este ordenado estado de la materia, la energía cinética térmica de las moléculas es totalmente insuficiente para superar la atracción intermolecular.",
+"Estado de agregación masivo y cristalino caracterizado por mantener una morfología fija y presentar fuerte resistencia a la deformación estructural.",
+"Su complejo estudio físico a nivel microscópico se centra en redes cristalinas compactas y en sus notables propiedades de conducción eléctrica.",
+"Cuerpo material fuertemente rígido que posee tanto una forma geométrica intrínseca definida como una estructura interna incompresible constante."
+]
+},
+{
+"palabra": "ángulo",
+"tipo": "sustantivo",
+"pistas": [
+"Su valor exacto e inclinado determina matemáticamente si un pesado bloque sobre una rampa comenzará a deslizarse venciendo la fricción estática.",
+"Medida geométrica de la apertura o inclinación relativa existente entre dos trayectorias rectas que se intersecan en un vértice común.",
+"En cinemática rotacional continua, la variación temporal de esta magnitud geométrica determina directamente la rapidez de giro de un aspa.",
+"Abertura geométrica plana comprendida entre dos rectas concurrentes en un vértice, medible matemáticamente mediante el uso de grados o radianes."
+]
+},
+{
+"palabra": "radio",
+"tipo": "sustantivo",
+"pistas": [
+"En el movimiento circular regular y uniforme, este segmento rectilíneo físico, al ser barrido por la partícula, traza áreas proporcionales al tiempo.",
+"Parámetro geométrico métrico y fundamental que conecta de manera directa el centro del movimiento rotatorio con la trayectoria perimetral del móvil.",
+"Según las estrictas ecuaciones de la fuerza centrípeta mecánica, es inversamente proporcional a la magnitud de dicha fuerza perpendicular.",
+"Segmento rectilíneo fijo que une el centro exacto de una circunferencia geométrica o esfera perfecta con cualquier punto de su borde curvo."
+]
+},
+{
+"palabra": "interacción",
+"tipo": "sustantivo",
+"pistas": [
+"Puede ser electromagnética, gravitacional, fuerte o débil, rigiendo de forma indiscutible el destino completo de todas las partículas cósmicas.",
+"Proceso físico recíproco por el cual dos o más cuerpos o campos materiales inerciales se influyen mutuamente y alteran sus estados dinámicos.",
+"La dinámica newtoniana y fundamental se basa en que toda fuerza no es más que el resultado observable de este fenómeno simultáneo y bidireccional.",
+"Acción y efecto mutuo y constante que ocurre entre dos cuerpos físicos elementales, intercambiando energía y cantidad de movimiento."
+]
+},
+{
+"palabra": "óptico",
+"tipo": "adjetivo",
+"pistas": [
+"Describe tradicionalmente al delicado microscopio compuesto que utiliza únicamente un haz de fotones enfocados para ampliar objetos minúsculos.",
+"Califica a cualquier fenómeno, aparato de laboratorio o experimento íntimamente vinculado con la generación, control o detección lumínica.",
+"Relativo a la importante y antigua disciplina de la física que estudia a fondo el comportamiento, difracción y refracción de la luz visible.",
+"Atributo cualitativo de los instrumentos de laboratorio, como gruesas lentes o telescopios reflectores, que sirven para enfocar la visión luminosa."
+]
+},
+{
+"palabra": "rayo",
+"tipo": "sustantivo",
+"pistas": [
+"Impresionante descarga electrostática masiva que rompe abruptamente la frágil resistencia dieléctrica del aire durante una tormenta eléctrica violenta.",
+"Línea matemática imaginaria y recta utilizada en la física geométrica para representar la trayectoria unidimensional de un haz de luz láser.",
+"En un ilustrativo diagrama de refracción, este delgado vector luminoso incidente se desvía visiblemente al cruzar la frontera entre dos medios distintos.",
+"Trazo lineal luminoso, continuo y recto que emite una potente fuente de energía radiante enfocado directamente hacia una superficie opaca."
+]
+},
+{
+"palabra": "señal",
+"tipo": "sustantivo",
+"pistas": [
+"Sufre inevitable atenuación y dispersión conforme viaja solitariamente a través de un ruidoso y extenso medio de transmisión físico o inalámbrico.",
+"Variación física medible y detectable en el tiempo o en el espacio que se utiliza intencionalmente para codificar y propagar datos binarios.",
+"En telecomunicaciones modernas, es el pulso electromagnético u onda acústica portadora que transporta valiosa información analógica o digital.",
+"Indicación física o perturbación ondulatoria transmitida a distancia, como una frecuencia de radio FM o un rápido pulso luminoso de fibra transparente."
+]
+},
+{
+"palabra": "escala",
+"tipo": "sustantivo",
+"pistas": [
+"Su versión Kelvin absoluta y científica comienza justo en el gélido e insuperable cero térmico donde se detiene por completo la vibración molecular.",
+"Proporción geométrica, constante y cuantitativa establecida rigurosamente para representar magnitudes gigantescas en un humilde trozo de papel.",
+"Sucesión lineal y ordenada de valores numéricos grabados utilizada por los precisos instrumentos de laboratorio para realizar mediciones directas.",
+"Rango milimétrico o graduación ordenada de medidas, como las marcas de grados Celsius pintadas en el vidrio de un termómetro clásico de mercurio."
+]
+},
+{
+"palabra": "determinar",
+"tipo": "verbo",
+"pistas": [
+"Es la ansiada y rigurosa conclusión matemática de un intrincado experimento de laboratorio con el fin de hallar el valor exacto de una constante oculta.",
+"Procedimiento analítico o experimental enfocado firmemente en fijar con absoluta precisión empírica los esquivos parámetros de un modelo físico.",
+"Establecer rigurosamente la magnitud numérica, dirección o naturaleza intrínseca de un fenómeno observable usando las correctas ecuaciones algebraicas.",
+"Acción de fijar, calcular y comprobar un dato o resultado numérico final de un problema; piensa en el verbo en su forma base e infinitiva."
+]
+},
+{
+"palabra": "observar",
+"tipo": "verbo",
+"pistas": [
+"Según la misteriosa y contraintuitiva mecánica cuántica, este acto consciente e intencional colapsa instantáneamente la función de onda de una partícula.",
+"Acción fundamental, perceptiva e inicial del método empírico que consiste en registrar detenidamente el comportamiento de un sistema sin alterarlo.",
+"Mirar con profunda atención científica un suceso natural a través de precisos sensores electrónicos, telescopios orbitales o simples sentidos biológicos.",
+"Acción de examinar atentamente un fenómeno natural y recolectar datos visuales en un ensayo empírico; piensa en el verbo en su forma base e infinitiva."
+]
+},
+{
+"palabra": "límite",
+"tipo": "sustantivo",
+"pistas": [
+"La inmutable constante c impone uno infranqueable y absoluto a la velocidad de propagación causal en el tejido inmenso de nuestro universo observable.",
+"Frontera espacial o estricta restricción matemática impuesta por la naturaleza misma o por los bordes físicos y definidos de un sistema cerrado.",
+"Elástico o de proporcionalidad, es el preciso punto de máxima tensión estructural que un resorte de acero soporta antes de deformarse permanentemente.",
+"Cota matemática teórica, frontera extrema o valor máximo inalcanzable al que tiende asintóticamente una magnitud física o ecuación diferencial."
+]
+},
+{
+"palabra": "medio",
+"tipo": "sustantivo",
+"pistas": [
+"Cuando un ruido estruendoso viaja, depende vitalmente de la elasticidad y densidad inercial de esta sustancia vibrante para poder propagarse lejos.",
+"Entorno material continuo, fluido o campo físico a través del cual viajan o se transmiten de forma ininterrumpida las perturbaciones ondulatorias.",
+"El frío y oscuro vacío cósmico carece completamente de este elemento sustentador, por lo que ninguna onda sonora puede cruzar el espacio interestelar.",
+"Sustancia física continua o ambiente espacial material que rodea y permite la propagación natural de ciertas ondas mecánicas y fuerzas elementales."
+]
+},
+{
+"palabra": "vector",
+"tipo": "sustantivo",
+"pistas": [
+"Carecería totalmente de significado físico o cinemático real si en su definición matemática inicial olvidáramos especificar hacia dónde apunta su flecha.",
+"Entidad matemática indispensable y fundamental para operar y sumar correctamente magnitudes compuestas como la fuerza neta o el desplazamiento espacial.",
+"Se distingue claramente de una magnitud sin orientación espacial porque encierra y requiere simultáneamente un módulo numérico, una dirección y un sentido.",
+"Segmento de recta dirigido y gráficamente orientado que se utiliza constantemente en cinemática para representar en papel magnitudes direccionales."
+]
+},
+{
+"palabra": "tensión",
+"tipo": "sustantivo",
+"pistas": [
+"En una cuerda estirada, es la fuerza interna que se opone a su elongación.",
+"En los circuitos, empuja a las cargas a moverse de un punto a otro superando un obstáculo.",
+"En mecánica clásica es fuerza por unidad de área, y en electrodinámica equivale a la diferencia de potencial.",
+"Magnitud cuyo nivel eléctrico se mide en voltios, o fuerza en un hilo que tira de una masa."
+]
+},
+{
+"palabra": "resistencia",
+"tipo": "sustantivo",
+"pistas": [
+"Es el motivo microscópico por el cual los cables conductores se calientan al transportar corriente.",
+"Determina qué tanta oposición enfrenta el paso de los electrones a través de un material.",
+"Su valor en un conductor ideal obedece a la ley de Ohm, relacionando directamente voltaje y amperaje.",
+"Propiedad eléctrica que disipa energía en forma de calor y cuya unidad de medida es el ohmio."
+]
+},
+{
+"palabra": "simetría",
+"tipo": "sustantivo",
+"pistas": [
+"El teorema de Noether vincula directamente esta propiedad con las leyes de conservación fundamentales del universo.",
+"Invariancia o preservación de un sistema físico cuando se le aplica una transformación espacial, como una rotación.",
+"En cristalografía y física de partículas, clasifica cómo las estructuras se mantienen idénticas ante reflexiones u otras operaciones.",
+"Correspondencia exacta en la disposición de las partes de un sistema respecto a un centro geométrico o un eje."
+]
+},
+{
+"palabra": "demostrar",
+"tipo": "verbo",
+"pistas": [
+"Es el paso experimental crucial para dar validez innegable a cualquier hipótesis o modelo teórico propuesto.",
+"Evidenciar mediante la observación repetible que una predicción matemática realmente ocurre en la naturaleza.",
+"Reproducir un fenómeno empírico bajo estrictas condiciones controladas para confirmar la veracidad de una ley fundamental.",
+"Acción de probar lógicamente o evidenciar que un principio físico es verdadero; piensa en el verbo en su forma base."
+]
+},
+{
+"palabra": "lineal",
+"tipo": "adjetivo",
+"pistas": [
+"Un oscilador armónico simple es el ejemplo paradigmático de un sistema continuo con este comportamiento proporcional.",
+"Describe una relación matemática donde un cambio constante en una variable produce un cambio idéntico en la otra.",
+"En el álgebra matricial y el cálculo vectorial, caracteriza las combinaciones o transformaciones representables mediante trazos rectos.",
+"Adjetivo utilizado para describir un movimiento unidimensional progresivo que ocurre a lo largo de una recta geométrica."
+]
+},
+{
+"palabra": "cálculo",
+"tipo": "sustantivo",
+"pistas": [
+"Isaac Newton y Gottfried Leibniz lo desarrollaron simultáneamente para poder resolver complejos problemas de movimiento continuo.",
+"Herramienta analítica matemática indispensable para modelar con precisión tasas de cambio instantáneas en la dinámica pura.",
+"Su variante diferencial e integral permite desde hallar áreas bajo curvas irregulares hasta derivar la velocidad a partir de la posición.",
+"Proceso matemático extenso para resolver un problema cuantitativo, o la vasta disciplina que estudia las integrales y derivadas."
+]
+},
+{
+"palabra": "clásico",
+"tipo": "adjetivo",
+"pistas": [
+"Describe al modelo determinista del mundo que precede históricamente a las revoluciones relativista y cuántica.",
+"Califica a los sistemas macroscópicos de la vida cotidiana donde el impacto de la constante de Planck se considera despreciable.",
+"Adjetivo que acompaña históricamente a la mecánica fundamentada por las leyes de Newton y el electromagnetismo de Maxwell.",
+"Que pertenece a la física tradicional anterior al inicio del siglo veinte, siendo el término opuesto a lo moderno o cuántico."
+]
+},
+{
+"palabra": "nobel",
+"tipo": "nombre_propio",
+"pistas": [
+"Galardón internacional instituido por un ingeniero sueco inventor de la dinamita para reconocer los descubrimientos más trascendentales.",
+"La máxima distinción global que un investigador puede aspirar a recibir en su vida por sus aportes revolucionarios a la ciencia.",
+"Premio otorgado anualmente en Estocolmo que ha sido entregado en la categoría de física a figuras legendarias como Curie, Bohr y Feynman.",
+"Renombrado apellido del siglo XIX que da su nombre al premio de honor más prestigioso y mediático de la física mundial."
+]
+},
+{
+"palabra": "equilibrio",
+"tipo": "sustantivo",
+"pistas": [
+"Ocurre mecánicamente cuando la suma vectorial neta de todas las influencias externas sobre un objeto se anula por completo.",
+"Estado estacionario en el que la velocidad de un cuerpo se mantiene constante o nula debido a la ausencia total de aceleración.",
+"En termodinámica, se alcanza progresivamente cuando dos cuerpos distintos en contacto igualan por completo su temperatura interna.",
+"Condición estática o dinámica perfecta donde las fuerzas y los momentos de torsión sobre un cuerpo suman exactamente cero."
+]
+},
+{
+"palabra": "vapor",
+"tipo": "sustantivo",
+"pistas": [
+"Este fluido impulsó dramáticamente la revolución industrial al servir como medio de trabajo de las primeras locomotoras de hierro.",
+"Fase gaseosa de una sustancia pura que, por encontrarse debajo de su punto crítico, puede ser licuada aplicando únicamente presión.",
+"En termodinámica básica, es el estado expansivo que adopta el agua inmediatamente después de absorber su calor latente de ebullición.",
+"Gas denso en el que se transforma un líquido tras hervir activamente, visible a menudo en el aire como una niebla blanca caliente."
+]
+},
+{
+"palabra": "máquina",
+"tipo": "sustantivo",
+"pistas": [
+"Un plano inclinado, una palanca elemental y un sistema de poleas representan los ejemplos más simples de este dispositivo mecánico.",
+"Sistema de ingeniería diseñado con propósito para multiplicar fuerzas o transformar eficientemente un tipo de energía en trabajo útil.",
+"La variante térmica ideal concebida por Carnot establece teóricamente el límite máximo de eficiencia posible para este mecanismo.",
+"Artefacto físico compuesto por múltiples piezas móviles capaz de facilitar tareas pesadas utilizando una fuente motriz de energía."
+]
+},
+{
+"palabra": "laboratorio",
+"tipo": "sustantivo",
+"pistas": [
+"Es un entorno artificial controlado diseñado rigurosamente para minimizar las perturbaciones externas durante las mediciones delicadas.",
+"Espacio físico dedicado donde se contrastan empíricamente las diversas hipótesis teóricas mediante la toma rigurosa de datos.",
+"Lugar cerrado habitualmente equipado con osciloscopios, sensores ópticos, láseres o balanzas de alta precisión para la investigación.",
+"Recinto de experimentación y prueba científica continua donde los investigadores realizan ensayos prácticos de forma segura."
+]
+},
+{
+"palabra": "láser",
+"tipo": "sustantivo",
+"pistas": [
+"Su principio fue anticipado teóricamente en la primera mitad del siglo veinte y su primer modelo funcional se basó en un cristal de rubí.",
+"Dispositivo moderno que genera y amplifica luz intensamente direccional compuesta por una única longitud de onda específica.",
+"Funciona físicamente mediante el mecanismo cuántico de radiación estimulada dentro de un medio previamente bombeado de energía.",
+"Acrónimo inglés para un haz de luz rectilíneo muy concentrado, coherente y monocromático usado extensamente en óptica e industria."
+]
+},
+{
+"palabra": "espectro",
+"tipo": "sustantivo",
+"pistas": [
+"Su minucioso análisis a partir de la luz proveniente de galaxias lejanas revela la verdadera composición química elemental del universo.",
+"Distribución continua de la intensidad de una radiación descompuesta rigurosamente en función de su frecuencia o longitud de onda.",
+"El propio Isaac Newton lo observó y documentó por primera vez al hacer pasar un haz estrecho de luz blanca a través de un prisma.",
+"Banda continua o discreta de colores y distintas frecuencias, que abarca a gran escala desde ondas de radio hasta rayos gamma."
+]
+},
+{
+"palabra": "neutrón",
+"tipo": "particula",
+"pistas": [
+"Su descubrimiento tardío explicó finalmente por qué existían distintos isótopos de diferente peso para un mismo elemento químico.",
+"Partícula masiva que contribuye activamente a la fuerza nuclear fuerte uniendo el núcleo, sin sufrir ninguna repulsión de Coulomb.",
+"Es un hadrón pesado compuesto en su interior por dos quarks down y un quark up, presente en casi todos los núcleos atómicos conocidos.",
+"Partícula subatómica de masa ligeramente superior a la del protón, caracterizada fundamentalmente por poseer carga eléctrica nula."
+]
+},
+{
+"palabra": "hidrógeno",
+"tipo": "sustantivo",
+"pistas": [
+"Por sí solo constituye aproximadamente el setenta y cinco por ciento de toda la materia bariónica observable en nuestro inmenso cosmos.",
+"Su serie espectral de Balmer sirvió como base experimental clave para el desarrollo del primer modelo atómico cuantizado de Bohr.",
+"Gas diatómico muy ligero cuyos núcleos se fusionan intensamente en el interior de las estrellas activas para liberar enormes energías.",
+"El elemento químico natural más simple, liviano y abundante de todo el universo, situado en la tabla periódica con el número atómico uno."
+]
+},
+{
+"palabra": "gravedad",
+"tipo": "sustantivo",
+"pistas": [
+"Es con gran diferencia la más débil de las cuatro interacciones fundamentales conocidas, pero es la que domina a escala cosmológica.",
+"Fenómeno universal responsable de la caída libre de los proyectiles y de la aceleración descendente constante cerca de la superficie terrestre.",
+"En mecánica clásica opera instantáneamente como una fuerza atractiva a distancia, mientras que en relatividad general es pura curvatura espaciotemporal.",
+"Magnitud y fuerza de largo alcance que atrae indefectiblemente a los objetos con masa entre sí y nos mantiene firmemente pegados al suelo."
+]
+},
+{
+"palabra": "emisión",
+"tipo": "sustantivo",
+"pistas": [
+"Este proceso físico se encarga de liberar fotones al exterior cuando un sistema cuántico específico decae a un estado de mucha menor energía.",
+"Fenómeno atómico que ocurre invariablemente cuando un electrón excitado salta de regreso a un nivel más cercano a su estado fundamental.",
+"Su variante espontánea o estimulada constituye la base misma del funcionamiento de los diodos semiconductores y diversas fuentes lumínicas.",
+"Acto de expulsar o liberar radiación o partículas radiactivas en movimiento desde un cuerpo material hacia el vasto espacio exterior."
+]
+},
+{
+"palabra": "órbita",
+"tipo": "sustantivo",
+"pistas": [
+"Las tres famosas leyes formuladas por Johannes Kepler describen matemáticamente la forma geométrica exacta de este recorrido celestial.",
+"Trayectoria típicamente elíptica o circular que describe libremente un cuerpo bajo la influencia de un potencial central estrictamente atractivo.",
+"Camino cerrado y altamente predecible que recorre un planeta alrededor de una estrella o un satélite natural en torno a la Tierra.",
+"Ruta curva y periódica por la que un objeto espacial se traslada y mantiene en el vacío bajo el influjo continuo de un cuerpo masivo."
+]
+},
+{
+"palabra": "relatividad",
+"tipo": "sustantivo",
+"pistas": [
+"Su postulado central más rompedor indica tajantemente que la velocidad de la luz en el vacío es idéntica para todos los observadores inerciales.",
+"Marco teórico moderno que demuestra analíticamente que el transcurso del tiempo es más lento a velocidades comparables a las del fotón.",
+"Teoría histórica dividida en especial y general que reemplazó de raíz las antiguas nociones de un espacio y tiempo absolutos de Newton.",
+"Famoso corpus teórico formulado por un genial físico alemán entre 1905 y 1915 que redefinió la geometría misma del espacio-tiempo."
+]
+},
+{
+"palabra": "electricidad",
+"tipo": "sustantivo",
+"pistas": [
+"El genio James Clerk Maxwell la unificó magistralmente con el magnetismo en un solo marco coherente de cuatro elegantes ecuaciones.",
+"Conjunto dinámico de fenómenos físicos originados primordialmente por la presencia, acumulación y flujo de cargas elementales negativas.",
+"Rama vital de la física aplicada que estudia a fondo los circuitos, las acumulaciones estáticas, así como las corrientes continuas y alternas.",
+"Forma de energía cotidiana asociada al flujo de partículas cargadas, absolutamente vital en el mundo para encender bombillas y motores."
+]
+},
+{
+"palabra": "molecular",
+"tipo": "adjetivo",
+"pistas": [
+"Nivel analítico de estudio en termodinámica química donde se indagan a fondo las fuerzas de Van der Waals y los puentes de hidrógeno.",
+"Escala física inmediatamente superior a la atómica, donde múltiples núcleos se agrupan ordenadamente compartiendo nubes de electrones.",
+"Adjetivo cualitativo que acompaña a menudo a la teoría cinética de los gases o al movimiento aleatorio browniano de las pequeñas partículas.",
+"Adjetivo utilizado para describir lo estrictamente relativo a las agrupaciones estables de múltiples átomos unidos mediante enlaces."
+]
+},
+{
+"palabra": "cero",
+"tipo": "sustantivo",
+"pistas": [
+"En la escala térmica propuesta por Kelvin, este límite inferior teórico inalcanzable representa el cese absoluto de todo movimiento estocástico.",
+"Valor algebraico exacto del trabajo mecánico realizado por una fuerza de magnitud constante que actúa perpendicularmente al desplazamiento.",
+"Es la medida precisa de la aceleración para el caso de un proyectil o móvil que viaja sostenidamente con una velocidad vectorial constante.",
+"Número o cifra matemática que indica sin margen de error la ausencia total de magnitud, de carga neta o de energía cinética absoluta."
+]
+},
+{
+"palabra": "vacío",
+"tipo": "sustantivo",
+"pistas": [
+"En la moderna teoría de campos cuánticos, este aparente estado de la nada alberga continuas y efímeras fluctuaciones de energía de punto.",
+"Medio ideal y teórico desprovisto de fricción aerodinámica donde un martillo y una pluma caerían simultáneamente con la misma aceleración.",
+"Espacio despejado donde los fotones logran alcanzar su velocidad máxima y constante de propagación, cercana a los trescientos mil kilómetros por segundo.",
+"Región delimitada del espacio que se halla total y deliberadamente desprovista de materia, careciendo de presión o de cualquier corpúsculo."
+]
+},
+{
+"palabra": "electromagnético",
+"tipo": "adjetivo",
+"pistas": [
+"Adjetivo fuertemente asociado al tipo de onda periódica transversal que ostenta la cualidad de propagarse en el espacio sin requerir un medio.",
+"Palabra que describe la naturaleza intrínseca de la radiación lumínica y la poderosa interacción simultánea entre corrientes y campos atractivos.",
+"Término que abarca metódicamente la gran familia espectral desde las tenues señales de radio hasta los muy energéticos fotones gamma.",
+"Relativo al campo combinado y a la fuerza fundamental que une los fenómenos de cargas puras y los imanes en un solo fenómeno unificado."
+]
+},
+{
+"palabra": "coordenada",
+"tipo": "sustantivo",
+"pistas": [
+"Las transformaciones algebraicas de Lorentz permiten traducir correctamente estos valores espaciotemporales entre distintos marcos en movimiento relativo.",
+"Componente puramente numérico utilizado por convención en la física cinemática para definir de manera inequívoca la posición de un evento.",
+"Cada elemento individual de una base ortogonal, ya sea en un sistema cartesiano, esférico o cilíndrico, que localiza un punto geométrico.",
+"Cada uno de los valores directores sobre los ejes, identificados usualmente como X, Y o Z, que ubican un objeto dentro de una gráfica."
+]
+},
+{
+"palabra": "ion",
+"tipo": "particula",
+"pistas": [
+"Esta variante atómica se genera masivamente en la naturaleza cuando un volumen de gas absorbe el calor suficiente para transitar a un estado de plasma.",
+"Átomo inestable que ha perdido drásticamente su neutralidad fundamental debido a la extracción o adición violenta de piezas en su nube exterior.",
+"Estructura microscópica que, por su naturaleza asimétrica, puede ser fácilmente acelerada mediante enormes campos en un ciclotrón magnético.",
+"Partícula atómica que posee un desbalance de carga eléctrica total, pudiendo manifestarse positivamente como catión o negativamente como anión."
+]
+},
+{
+"palabra": "orbital",
+"tipo": "sustantivo",
+"pistas": [
+"Su topología tridimensional difusa es descrita rigurosamente por complejas funciones de onda, como las conocidas soluciones armónicas y esféricas.",
+"Región cuántica esencialmente probabilística donde es sustancialmente más factible encontrar confinada a una partícula ligera de carga negativa.",
+"En la moderna interpretación atómica de Schrödinger, se clasifica rigurosamente en tipos S, P, D y F en función directa de su momento angular.",
+"Zona del espacio inmediato alrededor de un núcleo atómico denso donde matemáticamente reside la máxima probabilidad de hallar un electrón."
+]
+},
+{
+"palabra": "einstein",
+"tipo": "nombre_propio",
+"pistas": [
+"Una histórica misiva firmada por él alertó premonitoriamente sobre el poder latente de las reacciones nucleares previas al proyecto Manhattan.",
+"Introdujo audazmente el concepto del cuanto de luz para explicar el efecto fotoeléctrico, razón por la cual la academia sueca lo premió en 1921.",
+"Planteó lúcidos experimentos mentales acerca de observadores en trenes a velocidades lumínicas y la asincronía de gemelos viajando por el espacio.",
+"Insuperable genio teórico de origen judeoalemán mundialmente célebre en el siglo veinte por su famosa ecuación de equivalencia entre masa y energía."
+]
+},
+{
+"palabra": "naturaleza",
+"tipo": "sustantivo",
+"pistas": [
+"La rigurosa disciplina de la física surgió históricamente como la primigenia rama filosófica encargada únicamente del análisis profundo de este concepto.",
+"El vasto e inabarcable conjunto de todo el universo material observable, junto con las leyes fundamentales inmutables que lo rigen implacablemente.",
+"Todo aquello tangible que opera impulsado por las cuatro grandes fuerzas fundamentales y que se halla compuesto por materia, energía y espacio.",
+"El entorno físico total que nos rodea, lleno de fenómenos cósmicos macroscópicos y terrestres microscópicos que la ciencia moderna busca describir."
+]
+},
+{
+"palabra": "fórmula",
+"tipo": "sustantivo",
+"pistas": [
+"En las ciencias exactas, es la manera compacta de codificar el conocimiento sobre cómo interactúan las variables.",
+"Sintetiza una ley de la naturaleza mediante símbolos algebraicos estructurados para permitir cálculos numéricos.",
+"Es el resultado simbólico que vincula magnitudes, como la célebre ecuación que relaciona masa y energía.",
+"Expresión matemática compuesta por letras y números que dicta cómo resolver un problema o calcular una cantidad."
+]
+},
+{
+"palabra": "fotón",
+"tipo": "particula",
+"pistas": [
+"Su existencia fue propuesta teóricamente para explicar la cuantización de la radiación electromagnética.",
+"Es el bosón mediador de la fuerza electromagnética y viaja siempre a la máxima velocidad permitida en el vacío.",
+"Carece de masa en reposo, pero transporta una cantidad discreta de energía proporcional a su frecuencia.",
+"Partícula elemental o cuanto de luz responsable de transmitir todas las ondas del espectro visible e invisible."
+]
+},
+{
+"palabra": "matriz",
+"tipo": "sustantivo",
+"pistas": [
+"Heisenberg propuso una mecánica basada enteramente en el álgebra no conmutativa de estos arreglos numéricos.",
+"Se utiliza extensamente en cálculo tensorial para representar transformaciones lineales o rotaciones en el espacio.",
+"Arreglo rectangular de datos algebraicos que facilita la resolución de sistemas complejos de múltiples ecuaciones.",
+"Cuadro matemático de filas y columnas utilizado en mecánica cuántica para agrupar vectores y operadores."
+]
+},
+{
+"palabra": "magnitud",
+"tipo": "sustantivo",
+"pistas": [
+"Es el atributo fundamental de cualquier fenómeno que la ciencia empírica sea capaz de someter a medición.",
+"Puede ser escalar si solo requiere un número, o vectorial si además exige una dirección y un sentido.",
+"Representa el tamaño, intensidad o cantidad de una propiedad medible como la masa, la longitud o el tiempo.",
+"Valor numérico absoluto de un vector o propiedad física expresable cuantitativamente mediante un patrón métrico."
+]
+},
+{
+"palabra": "telescopio",
+"tipo": "sustantivo",
+"pistas": [
+"Galileo revolucionó la percepción humana del cosmos al dirigir uno de estos artefactos hacia el cielo nocturno.",
+"Instrumento óptico que concentra luz de objetos muy lejanos utilizando lentes refractores o espejos cóncavos.",
+"Su versión espacial orbita la Tierra para observar el universo sin la interferencia de la turbulencia del aire.",
+"Dispositivo de observación en forma de tubo diseñado específicamente para ampliar la vista de astros distantes."
+]
+},
+{
+"palabra": "fusión",
+"tipo": "sustantivo",
+"pistas": [
+"Es el proceso termodinámico responsable de que los glaciares se conviertan en agua líquida al calentarse.",
+"En el corazón del sol, este fenómeno nuclear combina núcleos ligeros para liberar gigantescas cantidades de energía.",
+"Cambio de estado físico o reacción atómica donde dos elementos distintos se unen indisolublemente para formar uno solo.",
+"Proceso en el cual un sólido pasa a líquido por calor, o dos núcleos atómicos se juntan para formar uno más pesado."
+]
+},
+{
+"palabra": "acción",
+"tipo": "sustantivo",
+"pistas": [
+"El principio de Hamilton dicta que la naturaleza siempre elige el camino que reduce al extremo inferior esta cantidad integral.",
+"En la tercera ley de la dinámica clásica, toda fuerza de este tipo genera inevitablemente una reacción opuesta.",
+"Magnitud escalar que combina energía y tiempo, y cuyo cuanto fundamental está dado por la constante de Planck.",
+"Término que en mecánica denota el efecto de una fuerza sobre un cuerpo, o la integral de un lagrangiano en el tiempo."
+]
+},
+{
+"palabra": "cristal",
+"tipo": "sustantivo",
+"pistas": [
+"La difracción de rayos X a través de su red interna permitió descubrir la estructura helicoidal del ADN.",
+"Estado sólido de la materia en el cual los átomos se empaquetan en un patrón periódico tridimensional perfecto.",
+"Estructura reticular ordenada, como el cuarzo o el diamante, estudiada a fondo por la física del estado sólido.",
+"Sólido homogéneo de formas poliédricas regulares cuyos componentes atómicos están dispuestos con simetría perfecta."
+]
+},
+{
+"palabra": "teorema",
+"tipo": "sustantivo",
+"pistas": [
+"Emmy Noether propuso el más célebre de estos enunciados lógicos para vincular la conservación y la simetría.",
+"Proposición teórica que requiere ser validada mediante una cadena de razonamientos lógicos o matemáticos irrefutables.",
+"Declaración analítica de la dinámica o el cálculo que, una vez probada formalmente, sirve como regla universal.",
+"Principio matemático o físico muy importante que posee una demostración rigurosa, como el formulado por Pitágoras."
+]
+},
+{
+"palabra": "película",
+"tipo": "sustantivo",
+"pistas": [
+"La interferencia óptica en este medio extremadamente delgado causa los patrones de colores en las burbujas de jabón.",
+"Capa superficial muy fina de un material depositado sobre un sustrato, vital en la fabricación de semiconductores.",
+"En termodinámica y óptica de materiales, designa a una lámina microscópica de fluido o sólido de grosor milimétrico.",
+"Recubrimiento muy delgado de un material sobre otro, o la capa de emulsión fotosensible usada antiguamente en fotografía."
+]
+},
+{
+"palabra": "carbono",
+"tipo": "sustantivo",
+"pistas": [
+"La disciplina completa de la química orgánica se fundamenta en las excepcionales propiedades de enlace de este material.",
+"Sus isótopos radiactivos son la herramienta principal para fechar la antigüedad de restos orgánicos en arqueología.",
+"Elemento tetravalente que puede tomar la forma de un blando grafito o de un material de extrema dureza.",
+"Elemento químico de número atómico seis, base de la vida en la Tierra y componente esencial de los nanotubos o el grafeno."
+]
+},
+{
+"palabra": "esfera",
+"tipo": "sustantivo",
+"pistas": [
+"Las vacas teóricas de la física a menudo se modelan con esta forma perfecta para simplificar enormemente los cálculos.",
+"Objeto tridimensional cuya área superficial encierra el volumen máximo posible bajo los principios del cálculo variacional.",
+"Figura simétrica perfecta que aproxima la forma de planetas, estrellas y frentes de onda isotrópicos en el vacío.",
+"Cuerpo espacial sólido limitado por una superficie redonda cuyos puntos están todos a igual distancia de un centro."
+]
+},
+{
+"palabra": "reloj",
+"tipo": "sustantivo",
+"pistas": [
+"Según la relatividad especial de Einstein, uno de estos artefactos en movimiento parece marcar el paso más lentamente.",
+"Instrumento de precisión cuya marcha está sincronizada por transiciones atómicas del cesio para definir el segundo.",
+"Mecanismo de oscilación periódica, ya sea de péndulo o de cuarzo, diseñado para cuantificar el flujo temporal.",
+"Dispositivo físico diseñado específicamente para medir el paso continuo del tiempo y marcar horas, minutos o segundos."
+]
+},
+{
+"palabra": "agujero",
+"tipo": "sustantivo",
+"pistas": [
+"La radiación teórica propuesta por Stephen Hawking describe cómo esta entidad podría eventualmente evaporarse.",
+"Singularidad de gravedad tan extrema que su velocidad de escape supera a la mismísima constante lumínica.",
+"En astrofísica se le apellida negro si traga luz, y de gusano si actúa como un atajo teórico en el espacio-tiempo.",
+"Región del cosmos con atracción gravitatoria masiva de donde nada escapa, descrita comúnmente como un pozo oscuro."
+]
+},
+{
+"palabra": "sonido",
+"tipo": "sustantivo",
+"pistas": [
+"El efecto Doppler altera nuestra percepción de este fenómeno dependiendo de si la fuente se aleja o se acerca.",
+"Propagación mecánica de perturbaciones de presión que requiere forzosamente un medio material elástico para viajar.",
+"Onda longitudinal acústica que no puede propagarse en el vacío, al contrario de la radiación electromagnética.",
+"Vibración mecánica del aire que viaja a unos trescientos cuarenta metros por segundo y puede ser percibida por el oído."
+]
+},
+{
+"palabra": "consecuencia",
+"tipo": "sustantivo",
+"pistas": [
+"En el principio determinista de causalidad clásica, es el evento tardío inevitable impulsado por una condición previa.",
+"En la segunda ley del movimiento, el incremento de velocidad de un cuerpo es la manifestación directa de aplicar una fuerza neta.",
+"Resultado lógico, físico o matemático que se deriva inexorablemente tras evaluar la acción de unas premisas dadas.",
+"Efecto directo que sigue a una causa específica en un experimento, o el corolario derivado de demostrar una proposición."
+]
+},
+{
+"palabra": "curva",
+"tipo": "sustantivo",
+"pistas": [
+"La formulación de Riemann la utiliza sistemáticamente para modelar las geodésicas en el tapiz del cosmos relativista.",
+"Gráfica trazada que ilustra analíticamente cómo una magnitud física evoluciona suavemente en función de un parámetro.",
+"Trayectoria continua y no recta descrita por un proyectil bajo el influjo de un campo gravitacional parabólico.",
+"Línea matemática que se desvía constantemente de su dirección original, sin formar nunca ángulos cerrados o rectas."
+]
+},
+{
+"palabra": "atmósfera",
+"tipo": "sustantivo",
+"pistas": [
+"Es el fluido turbulento y difuso donde ocurren los complejos fenómenos modelados por la meteorología moderna.",
+"Capa gaseosa protectora atrapada por la gravedad que genera una presión característica sobre la superficie terrestre.",
+"En termodinámica se utiliza como unidad tradicional de presión, equivalente a unos ciento un mil pascales.",
+"Envoltura de gases vitales conformada de nitrógeno y oxígeno que rodea y protege a nuestro planeta desde el espacio."
+]
+},
+{
+"palabra": "probabilidad",
+"tipo": "sustantivo",
+"pistas": [
+"Max Born revolucionó la física al postular que la amplitud de la función de onda de Schrödinger representa este concepto.",
+"Magnitud estadística central del mundo cuántico que reemplaza al determinismo estricto de la mecánica clásica.",
+"Mide analíticamente la frecuencia esperada de un microestado dentro de la formulación de la mecánica estadística.",
+"Valor numérico entre cero y uno que cuantifica qué tan factible o posible es que ocurra un evento físico específico."
+]
+},
+{
+"palabra": "espejo",
+"tipo": "sustantivo",
+"pistas": [
+"El experimento de Michelson y Morley utilizó semitransparentes divisores de haz y esta clase de elementos reflectantes.",
+"Superficie pulida que aprovecha la ley óptica elemental donde el ángulo de incidencia iguala al de reflexión.",
+"Su forma estructural puede ser plana, cóncava o convexa para manipular el rebote de los rayos de luz a voluntad.",
+"Cristal o metal recubierto altamente pulido diseñado para reflejar nítidamente la luz y mostrar una imagen virtual."
+]
+},
+{
+"palabra": "emitir",
+"tipo": "verbo",
+"pistas": [
+"Es el proceso fundamental mediante el cual las antenas de radio logran propagar sus señales por el espacio.",
+"Lo que hace un átomo excitado al decaer a un estado de menor energía expulsando un cuanto de radiación al exterior.",
+"Acción termodinámica que los cuerpos negros realizan al liberar calor en forma de ondas infrarrojas al ambiente.",
+"Acción de producir y exhalar ondas, luz o partículas radiactivas hacia el exterior; piensa en el verbo en su forma base."
+]
+},
+{
+"palabra": "mínimo",
+"tipo": "sustantivo",
+"pistas": [
+"El estado fundamental de un sistema cuántico no perturbado se corresponde siempre con este nivel extremo del espectro.",
+"Punto del cálculo diferencial donde la derivada primera se anula y la derivada segunda arroja un valor positivo.",
+"En el pozo de potencial o en la entropía de una estructura cristalina al cero absoluto, representa el valor más bajo.",
+"El límite inferior absoluto de una cantidad, o el punto más bajo alcanzado en el valle de una gráfica matemática."
+]
+},
+{
+"palabra": "luna",
+"tipo": "nombre_propio",
+"pistas": [
+"Las meticulosas mediciones de su libración y retardo orbital han confirmado previsiones sutiles de la relatividad general.",
+"Objeto rocoso cuya atracción mareal diferencial es la causa primordial de las corrientes y el vaivén de los océanos.",
+"Compañero gravitacional cercano cuyo disco oscurece ocasionalmente la corona solar durante un eclipse total perfecto.",
+"Único satélite natural del planeta Tierra, responsable de iluminar el cielo nocturno con la luz que refleja del Sol."
+]
+},
+{
+"palabra": "trayectoria",
+"tipo": "sustantivo",
+"pistas": [
+"En una cámara de niebla, las partículas subatómicas cargadas delatan su paso dejando este rastro visible de condensación.",
+"La cinemática estudia detalladamente si este recorrido espacial es rectilíneo, parabólico, elíptico o circular.",
+"Ruta continua y unívoca que describe el centro de masa de un proyectil durante todo su vuelo por el aire.",
+"Línea imaginaria trazada por un móvil a medida que ocupa sucesivas posiciones en el espacio a lo largo del tiempo."
+]
+},
+{
+"palabra": "aceleración",
+"tipo": "sustantivo",
+"pistas": [
+"En la relatividad general, el principio de equivalencia afirma que estar sometido a ella es indistinguible de la gravedad.",
+"Aparece inevitablemente en cualquier sistema que no sea inercial, alterando las fuerzas ficticias como la centrífuga.",
+"Magnitud cinemática derivada equivalente a la tasa de variación instantánea del vector velocidad respecto al tiempo.",
+"Cantidad física vectorial, medida típicamente en metros por segundo al cuadrado, que indica cómo cambia la rapidez."
+]
+},
+{
+"palabra": "newton",
+"tipo": "nombre_propio",
+"pistas": [
+"Formuló matemáticamente una revolucionaria ley del inverso del cuadrado para explicar el movimiento de los planetas.",
+"Autor de los legendarios Principia Mathematica, sentó las bases irrebatibles de toda la dinámica histórica y el cálculo.",
+"Su apellido se utiliza internacionalmente para denominar a la unidad estándar que cuantifica la intensidad de la fuerza.",
+"Apellido del ilustre físico inglés que formuló las tres leyes fundamentales del movimiento y estudió la óptica con prismas."
+]
+},
+{
+"palabra": "geometría",
+"tipo": "sustantivo",
+"pistas": [
+"Albert Einstein demostró que, en presencia de grandes masas cosmológicas, esta estructura subyacente deja de ser plana.",
+"Disciplina formal espacial en la cual se apoyó la óptica de rayos para trazar lentes convergentes y superficies cóncavas.",
+"La variante no euclidiana de esta rama matemática es el lenguaje natural para describir el alabeo del espacio-tiempo.",
+"Rama matemática que estudia las propiedades del espacio, como las formas, dimensiones, puntos, rectas y volúmenes."
+]
+},
+{
+"palabra": "astronomía",
+"tipo": "sustantivo",
+"pistas": [
+"Sus raíces provienen de las antiguas observaciones de los astrolabios y los precisos catálogos de paralaje estelar.",
+"Ciencia observacional pura que utiliza el análisis de espectros para descifrar la composición química de estrellas lejanas.",
+"Rama científica a gran escala íntimamente vinculada a la astrofísica y cosmología que analiza constelaciones y galaxias.",
+"Disciplina dedicada enteramente al estudio del universo, los cuerpos celestes y todos los fenómenos más allá de la Tierra."
+]
+},
+{
+"palabra": "protón",
+"tipo": "particula",
+"pistas": [
+"Sus brutales colisiones en el gran anillo de Ginebra condujeron al hallazgo experimental del esperado bosón de Higgs.",
+"Hadrón bariónico pesado y estable, compuesto por dos quarks up y un quark down confinados por gluones.",
+"La identidad y el número de la tabla periódica de cualquier elemento químico depende exclusivamente de su cantidad.",
+"Partícula subatómica masiva alojada en el núcleo y caracterizada por ostentar una unidad elemental de carga positiva."
+]
+},
+{
+"palabra": "uranio",
+"tipo": "sustantivo",
+"pistas": [
+"Sus pesados núcleos enriquecidos en isótopos inestables fueron el corazón del primer reactor funcional construido por Fermi.",
+"Elemento actínido denso cuya desintegración en cadena controlada proporciona el inmenso calor en las centrales nucleares modernas.",
+"Metal pesado fuertemente radiactivo cuyo isótopo doscientos treinta y cinco es físil por bombardeo de neutrones lentos.",
+"Elemento químico radiactivo de la tabla periódica con número atómico noventa y dos, clave como combustible atómico."
+]
+},
+{
+"palabra": "causa",
+"tipo": "sustantivo",
+"pistas": [
+"Es aquello que antecede y provoca un efecto ineludible en el determinismo clásico.",
+"Principio fundamental que establece que todo fenómeno tiene un origen físico previo.",
+"Se relaciona estrechamente con el tiempo y la estructura del cono de luz en la relatividad.",
+"Razón o motivo que produce un evento, siendo la primera parte de una conocida relación de acción y efecto."
+]
+},
+{
+"palabra": "cuerda",
+"tipo": "sustantivo",
+"pistas": [
+"Puede vibrar armónicamente para producir ondas estacionarias con nodos y antinodos.",
+"Objeto unidimensional idealizado que transmite tensión de un extremo a otro.",
+"En física teórica avanzada, su versión microscópica busca unificar la gravedad con la mecánica cuántica.",
+"Hilo o lazo tenso usado frecuentemente en laboratorios escolares para estudiar poleas y ondas mecánicas."
+]
+},
+{
+"palabra": "vidrio",
+"tipo": "sustantivo",
+"pistas": [
+"Material amorfo que permite el paso de gran parte del espectro electromagnético visible.",
+"Actúa como un aislante eléctrico excelente y presenta un índice de refracción característico.",
+"Sustancia clave en la óptica instrumental para la fabricación de lentes, espejos y prismas.",
+"Sólido transparente y frágil hecho de sílice fundida, común en vasos de precipitados y ventanas."
+]
+},
+{
+"palabra": "tensor",
+"tipo": "sustantivo",
+"pistas": [
+"Entidad matemática que generaliza conceptos como escalares y vectores a múltiples dimensiones.",
+"Objeto geométrico que describe relaciones lineales complejas entre magnitudes algebraicas.",
+"Herramienta indispensable en la mecánica de medios continuos y en la formulación de la relatividad general de Einstein.",
+"Arreglo multidimensional de números que caracteriza propiedades anisótropas, como el de inercia o el de esfuerzos."
+]
+},
+{
+"palabra": "evento",
+"tipo": "sustantivo",
+"pistas": [
+"Es un punto microscópico y específico en la intrincada malla del espacio-tiempo.",
+"Suceso instantáneo que ocurre en una ubicación geométrica y temporal totalmente definida.",
+"En relatividad, es la entidad fundamental que los observadores miden para calcular intervalos invariantes.",
+"Fenómeno o acontecimiento puntual que queda descrito exactamente por tres coordenadas espaciales y una temporal."
+]
+},
+{
+"palabra": "termodinámica",
+"tipo": "sustantivo",
+"pistas": [
+"Su nacimiento histórico está estrechamente ligado al desarrollo empírico de las máquinas de vapor.",
+"Rama científica que estudia el intercambio de calor, el trabajo y las transformaciones energéticas macroscópicas.",
+"Disciplina regida rigurosamente por cuatro leyes fundamentales que gobiernan la conservación y el desorden.",
+"Área de la física clásica que analiza la temperatura y todos los procesos de transferencia de calor."
+]
+},
+{
+"palabra": "espín",
+"tipo": "sustantivo",
+"pistas": [
+"Grado de libertad interno que carece por completo de un análogo exacto en la mecánica clásica.",
+"Momento angular intrínseco fuertemente asociado a la naturaleza de las partículas subatómicas.",
+"Propiedad cuántica que determina directamente si una partícula obedece la estadística de Bose-Einstein o la de Fermi-Dirac.",
+"Magnitud vectorial íntima del electrón que suele representarse hacia arriba o hacia abajo y toma valores fraccionarios."
+]
+},
+{
+"palabra": "isótopo",
+"tipo": "sustantivo",
+"pistas": [
+"Variantes de un mismo inquilino en la tabla periódica que difieren exclusivamente en su pesadez nuclear.",
+"Átomo que comparte exactamente el mismo número de protones pero distinto número de neutrones que otro.",
+"Concepto de física nuclear crucial para entender métodos modernos como la datación por carbono y la radiactividad.",
+"Cada una de las formas de un elemento químico que conservan su número atómico pero poseen distinta masa."
+]
+},
+{
+"palabra": "futuro",
+"tipo": "sustantivo",
+"pistas": [
+"Es la única dirección geométrica hacia donde apunta invariablemente la flecha termodinámica.",
+"Región del cono de luz a la que una partícula material puede llegar viajando a una velocidad menor a la de la luz.",
+"Direccionalidad del tiempo en la que ocurren los efectos posteriores a una condición inicial establecida.",
+"Porvenir temporal o tiempo que está por venir, situado siempre hacia adelante en el eje cronológico."
+]
+},
+{
+"palabra": "error",
+"tipo": "sustantivo",
+"pistas": [
+"Inevitable y perpetuo compañero de cualquier medición experimental realizada en un laboratorio.",
+"Diferencia o desviación medible entre un valor registrado empíricamente y el valor real o teórico de una magnitud.",
+"Puede clasificarse estrictamente como sistemático o aleatorio dentro del estudio de la metrología.",
+"Equivocación o incertidumbre numérica natural que surge en la lectura de cualquier instrumento de medida."
+]
+},
+{
+"palabra": "matemática",
+"tipo": "sustantivo",
+"pistas": [
+"El lenguaje universal en el que, según Galileo Galilei, está escrito el gran libro del universo.",
+"Ciencia formal que provee las herramientas abstractas necesarias para modelar con precisión fenómenos físicos.",
+"Disciplina de números, ecuaciones y cálculo indispensable para formular y demostrar teorías físicas.",
+"Ciencia deductiva que estudia a fondo las propiedades y relaciones de los entes abstractos como números y figuras geométricas."
+]
+},
+{
+"palabra": "dispersión",
+"tipo": "sustantivo",
+"pistas": [
+"Es el fenómeno fundamental responsable de que el cielo diurno se nos presente en tonos azules.",
+"Efecto por el cual una radiación electromagnética u onda se desvía en múltiples direcciones al interactuar con la materia.",
+"Proceso óptico y cuántico profundamente asociado a experimentos históricos de Rayleigh, Compton y Rutherford.",
+"Separación visible de la luz blanca en sus colores componentes individuales al atravesar un prisma de cristal."
+]
+},
+{
+"palabra": "paralelo",
+"tipo": "adjetivo",
+"pistas": [
+"Describe un tipo de configuración geométrica ideal donde dos trayectorias rectas nunca llegan a cruzarse en un plano euclidiano.",
+"Arreglo específico de elementos en un circuito eléctrico donde el voltaje medido es idéntico en todas sus ramas.",
+"En electromagnetismo, describe conductores rectilíneos que experimentan fuerzas de atracción si sus corrientes fluyen en el mismo sentido.",
+"Adjetivo para calificar líneas o resistencias que están dispuestas exactamente una al lado de la otra sin intersectarse jamás."
+]
+},
+{
+"palabra": "plasma",
+"tipo": "sustantivo",
+"pistas": [
+"Constituye por mucho la mayor parte de la materia bariónica visible en la inmensidad del cosmos.",
+"Gas altamente ionizado en el que los electrones se han separado violentamente de sus núcleos atómicos originales.",
+"Cuarto estado de agregación de la materia, estudiado exhaustivamente en confinamiento magnético para lograr la fusión nuclear.",
+"Fluido conductor de electricidad que está presente de forma natural y masiva en el interior de las estrellas y en los relámpagos."
+]
+},
+{
+"palabra": "suma",
+"tipo": "sustantivo",
+"pistas": [
+"Operación escalar o vectorial básica requerida para obtener la fuerza neta que actúa sobre un diagrama de cuerpo libre.",
+"Principio de superposición matemática usado constantemente para combinar funciones de ondas colineales.",
+"Integración algebraica de múltiples componentes individuales para consolidarlas en una única resultante global.",
+"Operación aritmética elemental que consiste en añadir dos o más cantidades físicas para obtener un resultado total."
+]
+},
+{
+"palabra": "cinético",
+"tipo": "adjetivo",
+"pistas": [
+"Término que está fuertemente asociado a la agitación térmica y a las colisiones microscópicas de las moléculas en un gas.",
+"Adjetivo que describe la capacidad de un cuerpo para realizar trabajo debido pura y exclusivamente a su velocidad.",
+"Tipo de energía que, combinada con la potencial, conforma la totalidad de la energía mecánica de un sistema aislado.",
+"Relativo al movimiento, usado comúnmente para nombrar la energía calculada como la mitad de la masa por el cuadrado de la velocidad."
+]
+},
+{
+"palabra": "óptica",
+"tipo": "sustantivo",
+"pistas": [
+"Se divide clásicamente en vertientes geométrica y ondulatoria, dependiendo de la escala de los objetos con los que interactúa.",
+"Rama especializada de la física que analiza con rigor el comportamiento, la propagación y las propiedades de la radiación visible.",
+"Campo del conocimiento científico que abarca fenómenos como la refracción, reflexión, difracción e interferencia de los fotones.",
+"Ciencia que estudia los misterios de la luz y permite diseñar instrumentos precisos como telescopios, microscopios y lentes."
+]
+},
+{
+"palabra": "infinito",
+"tipo": "sustantivo",
+"pistas": [
+"Límite inalcanzable al que tiende asintóticamente la masa relativista de un objeto cuando este se aproxima a la velocidad de la luz.",
+"Concepto matemático abstracto que representa una magnitud que carece por completo de cota, límite o finalización.",
+"Escala de distancia asumida en teoría clásica en la cual la influencia de una fuerza gravitacional o eléctrica decae finalmente a cero.",
+"Término que denota aquello que carece de límites, representado convencionalmente en ecuaciones por un símbolo de un ocho acostado."
+]
+},
+{
+"palabra": "expansión",
+"tipo": "sustantivo",
+"pistas": [
+"Fue descubierta cosmológicamente al observar sistemáticamente el corrimiento al rojo en el espectro luminoso de galaxias distantes.",
+"Aumento progresivo y medible del volumen o de las dimensiones de un medio físico, como sucede con un gas al absorber calor.",
+"Fenómeno universal regido por la constante de Hubble que describe el alejamiento mutuo y acelerado del tejido espacial.",
+"Proceso físico directo por el cual un cuerpo pasa a ocupar una mayor cantidad de espacio, siendo lo contrario a la compresión."
+]
+},
+{
+"palabra": "dinámica",
+"tipo": "sustantivo",
+"pistas": [
+"Sus firmes cimientos clásicos fueron establecidos matemáticamente en una famosa obra cumbre del siglo diecisiete.",
+"Rama de la mecánica clásica que relaciona directamente las interacciones externas con la aceleración que estas originan.",
+"Campo de estudio metodológico donde se aplican activamente las tres leyes de Newton para resolver sistemas no inerciales.",
+"Parte de la física que estudia analíticamente las causas subyacentes que producen los cambios en el estado de movimiento de los cuerpos."
+]
+},
+{
+"palabra": "oxígeno",
+"tipo": "sustantivo",
+"pistas": [
+"Sus moléculas diatómicas naturales son paramagnéticas, una peculiaridad explicada elegantemente por la teoría de orbitales moleculares.",
+"Gas indispensable a nivel atómico para sostener los procesos de combustión rápida y las reacciones que liberan calor intenso.",
+"Elemento químico de número atómico ocho, esencial en la composición de la atmósfera terrestre y en reacciones termodinámicas exotérmicas.",
+"Elemento gaseoso vital que los seres humanos respiramos y que forma el agua al combinarse covalentemente con dos átomos de hidrógeno."
+]
+},
+{
+"palabra": "dividir",
+"tipo": "verbo",
+"pistas": [
+"Operación mental y analítica requerida obligatoriamente para calcular la rapidez media conociendo la distancia recorrida y el tiempo empleado.",
+"Procedimiento sistemático de fraccionar una cantidad global o una entidad física en partes proporcionales más pequeñas.",
+"Lo que experimenta un núcleo atómico inestable al fragmentarse para liberar radiación y energía térmica.",
+"Acción matemática de repartir o partir un número en partes iguales; piensa en la acción enunciada en su forma base."
+]
+},
+{
+"palabra": "entropía",
+"tipo": "sustantivo",
+"pistas": [
+"En un sistema verdaderamente aislado, esta cantidad intrínseca jamás disminuye con el avance implacable del reloj cósmico.",
+"Mide de forma cuantitativa el grado de caos o la inmensa cantidad de microestados accesibles en un estado macroscópico.",
+"Concepto estadístico fundamental introducido teóricamente por Clausius y refinado luego por la brillante mecánica estadística de Boltzmann.",
+"Magnitud termodinámica del desorden molecular que se representa con el símbolo S y se mide convencionalmente en julios por kelvin."
+]
+},
+{
+"palabra": "detector",
+"tipo": "sustantivo",
+"pistas": [
+"En el célebre experimento de la doble rendija cuántica, su simple presencia altera irremediablemente el patrón de interferencia esperado.",
+"Instrumento de laboratorio diseñado específicamente para registrar la presencia de partículas, radiación electromagnética u otros fenómenos imperceptibles.",
+"Dispositivo experimental indispensable montado en enormes aceleradores de partículas y observatorios de ondas gravitacionales para captar señales.",
+"Aparato sensor tecnológico que percibe y registra un fenómeno físico para su medición posterior, como el clásico tubo Geiger-Müller."
+]
+},
+{
+"palabra": "ruido",
+"tipo": "sustantivo",
+"pistas": [
+"En la instrumentación electrónica a muy baja temperatura, el de tipo térmico o de Johnson-Nyquist supone una limitación física fundamental.",
+"Señal acústica, eléctrica o electromagnética de carácter aleatorio y no deseada que interfiere gravemente con la extracción de información útil.",
+"Perturbación caótica en un medio elástico que produce un espectro sonoro continuo sin poseer frecuencias armónicas definidas.",
+"Sonido inarticulado, confuso o molesto que ensucia la calidad de una medición precisa o perturba el ambiente acústico."
+]
+},
+{
+"palabra": "evolución",
+"tipo": "sustantivo",
+"pistas": [
+"En la formulación ondulatoria de Schrödinger, su trayectoria está dictada estrictamente por la acción del operador hamiltoniano sobre el estado cuántico.",
+"Cambio progresivo y continuo del estado físico general de un sistema dinámico complejo a medida que transcurren los segundos.",
+"Desarrollo temporal determinista de un sistema astrofísico masivo, como podría ser el ciclo de vida completo de una gigante roja.",
+"Proceso paulatino de transformación o cambio gradual a lo largo de un periodo de tiempo prolongado en un objeto astronómico o natural."
+]
+},
+{
+"palabra": "frío",
+"tipo": "adjetivo",
+"pistas": [
+"Término que describe una sensación fisiológica que físicamente es solo la percepción de una acelerada tasa de pérdida de calor corporal.",
+"Estado termodinámico íntimamente asociado a una muy baja energía cinética media de las partículas constituyentes de un cuerpo material.",
+"Condición extrema que se aproxima teóricamente en sofisticados laboratorios mediante el uso de láseres atómicos, buscando acercarse al cero absoluto.",
+"Adjetivo utilizado para calificar a un objeto o ambiente que posee una temperatura notablemente inferior a la de su entorno inmediato."
+]
+},
+{
+"palabra": "amplitud",
+"tipo": "sustantivo",
+"pistas": [
+"En el dominio de la mecánica cuántica, su módulo matemático elevado al cuadrado determina la probabilidad de localizar una partícula.",
+"Máximo desplazamiento espacial relativo que alcanza un oscilador armónico al alejarse de su punto central de equilibrio estable.",
+"En el análisis del movimiento pendular simple, es el parámetro constante que define la elongación geométrica máxima permitida.",
+"Magnitud física que mide la altura máxima de una cresta en una onda, relacionada de manera directa con la intensidad del sonido o el brillo de la luz."
+]
+},
+{
+"palabra": "fisión",
+"tipo": "sustantivo",
+"pistas": [
+"Fenómeno atómico altamente inestable estimulado artificialmente por el bombardeo preciso de neutrones lentos sobre blancos pesados.",
+"Proceso nuclear fuertemente exotérmico donde un núcleo atómico gigantesco se escinde violentamente en pedazos mucho más ligeros.",
+"Mecanismo de reacción en cadena controlada que resulta fundamental en el interior del núcleo de los reactores de potencia comerciales.",
+"Ruptura catastrófica o partición de un átomo masivo como el uranio, liberando en el acto inmensas cantidades de radiación y energía."
+]
+},
+{
+"palabra": "planck",
+"tipo": "nombre_propio",
+"pistas": [
+"Introdujo con audacia una diminuta constante de proporcionalidad fundamental para resolver el absurdo de la catástrofe ultravioleta en el modelo del cuerpo negro.",
+"Propuso radicalmente que la radiación electromagnética no se emite ni se absorbe de forma continua, sino en pequeños paquetes energéticos discretos.",
+"Pionero científico alemán cuyas ideas disruptivas sentaron todas las bases fundacionales de la moderna teoría cuántica a principios del siglo XX.",
+"Físico teórico legendario cuyo apellido otorga nombre oficial a la unidad cuántica mínima de acción y a la escala de longitud más corta concebible."
+]
+},
+{
+"palabra": "resonancia",
+"tipo": "sustantivo",
+"pistas": [
+"Su destructivo poder mecánico latente quedó tristemente evidenciado en el histórico colapso oscilatorio del puente de Tacoma Narrows.",
+"Fenómeno amplificador que ocurre invariablemente cuando una fuerza periódica externa coincide con la frecuencia natural de vibración de un sistema.",
+"En acústica y física médica, este principio permite sintonizar radios o generar imágenes muy precisas del cuerpo humano usando campos magnéticos.",
+"Aumento drástico de la amplitud de oscilación en un objeto elástico al ser estimulado por una fuente rítmica sincronizada a su mismo tono."
+]
+},
+{
+"palabra": "electrodo",
+"tipo": "sustantivo",
+"pistas": [
+"Las reacciones de reducción y oxidación de las celdas galvánicas no podrían intercambiar electrones con el circuito externo sin este vital componente.",
+"Terminal física sumergida parcial o totalmente en un electrolito líquido para inyectar o recolectar portadores de carga de manera continua.",
+"En química física, se clasifica funcionalmente como ánodo cuando atrae iones de carga negativa, y cátodo si atrae fuertemente a los positivos.",
+"Extremo metálico sólido o placa de grafito conductivo por donde la corriente entra o sale directamente de un tubo de vacío o disolución."
+]
+},
+{
+"palabra": "caliente",
+"tipo": "adjetivo",
+"pistas": [
+"Termodinámicamente, cualquier materia con esta cualidad tenderá espontáneamente a ceder energía hacia su entorno buscando un equilibrio térmico final.",
+"Adjetivo utilizado en la física de fluidos para describir un volumen cuyas moléculas agitadas poseen una energía cinética promedio inusualmente alta.",
+"Caracteriza indispensablemente al foco o depósito principal del cual una máquina térmica como la de Carnot extrae energía antes de realizar trabajo útil.",
+"Estado térmico intenso que resulta quemante al tacto o que registra un valor muy elevado al ser medido en una escala de grados Celsius o Kelvin."
+]
+},
+{
+"palabra": "integral",
+"tipo": "sustantivo",
+"pistas": [
+"La acción fundamental en el celebrado principio de mínima acción de Hamilton se define matemáticamente evaluando este preciso operador continuo temporal.",
+"Operación de cálculo analítico empleada extensamente por los físicos para hallar áreas encerradas bajo trayectorias de curvas en gráficos bidimensionales.",
+"En la cinemática avanzada, ejecutar este meticuloso proceso analítico permite reconstruir sin ambigüedades la posición a partir de los datos de velocidad.",
+"Herramienta matemática representada por un símbolo alargado en forma de ese que sirve para sumar infinitésimos acumulados en un dominio específico."
+]
+},
+{
+"palabra": "conservación",
+"tipo": "sustantivo",
+"pistas": [
+"El poderoso teorema de Emmy Noether demostró elegantemente que cualquier simetría continua del espacio exige de forma ineludible esta rigurosa invariabilidad.",
+"Postulado axiomático que dictamina que ciertas cantidades sumadas de un sistema estrictamente aislado permanecen inalterables pase lo que pase en su interior.",
+"En dinámica de choques y termodinámica, esta ley de continuidad se aplica a fondo sobre el momento lineal, el momento angular y la masa-energía.",
+"Principio universal inquebrantable que afirma que una magnitud clave de la naturaleza nunca se crea ni se destruye, sino que meramente se transforma."
+]
+},
+{
+"palabra": "polo",
+"tipo": "sustantivo",
+"pistas": [
+"Una carga magnética unitaria aislada nunca ha sido observada empíricamente en la naturaleza, ya que las líneas de fuerza siempre nacen y mueren en pares opuestos.",
+"Cada uno de los dos extremos asimétricos geográficos terrestres donde convergen masivamente las protectoras líneas del campo que desvían el viento solar.",
+"En los diagramas de electromagnetismo básico, se etiqueta convencionalmente como norte o sur para indicar sin error la dirección de la atracción repulsiva.",
+"Punto o región terminal de un objeto fuertemente magnetizado donde la intensidad espacial de la fuerza de atracción se concentra hasta su máximo nivel."
+]
+},
+{
+"palabra": "refracción",
+"tipo": "sustantivo",
+"pistas": [
+"Este notorio fenómeno ondulatorio es el verdadero mecanismo físico detrás de los espejismos calurosos en el desierto y de los arcoíris pluviales.",
+"Desviación geométrica repentina de la trayectoria de avance de una onda luminosa al atravesar oblicuamente la frontera entre dos medios transparentes.",
+"Se rige matemáticamente por la histórica ley de Snell, la cual relaciona estrechamente los ángulos de incidencia y desviación con los índices de los materiales.",
+"Cambio abrupto de dirección y velocidad de propagación que sufre la luz al penetrar y cruzar, por ejemplo, desde el aire vacío hacia el interior de un prisma."
+]
+},
+{
+"palabra": "infrarrojo",
+"tipo": "sustantivo",
+"pistas": [
+"El supertelescopio espacial James Webb fue diseñado con espejos dorados específicamente para captar esta tenue y dilatada radiación de galaxias muy antiguas.",
+"Banda espectral invisible íntimamente vinculada a la disipación térmica y al constante calor irradiado hacia el ambiente por el cuerpo de los mamíferos.",
+"En el amplio espectro electromagnético moderno, sus oscilantes ondas se ubican justo después de la luz roja visible y justo antes del régimen de las microondas.",
+"Tipo de radiación lumínica de longitud de onda mayor a la perceptible por la retina del ojo humano, captada eficazmente por cámaras de visión térmica."
+]
+},
+{
+"palabra": "hierro",
+"tipo": "sustantivo",
+"pistas": [
+"Este metal denso es el elemento atómico límite más pesado que logra producirse emitiendo energía neta en el núcleo candente de las estrellas supermasivas.",
+"Su estructura atómica lo convierte en el núcleo sólido perfecto de los grandes electroimanes para amplificar enormemente las líneas de fuerza de una bobina.",
+"Es el componente rocoso central y aplastantemente mayoritario tanto del núcleo sólido de nuestro planeta como de la resistente aleación que llamamos acero.",
+"Elemento químico metálico de transición que tiene como número atómico veintiséis, muy famoso en el mundo industrial por oxidarse fácilmente ante la humedad."
+]
+},
+{
+"palabra": "absorber",
+"tipo": "verbo",
+"pistas": [
+"Un cuerpo negro idealizado en la termodinámica se caracteriza teóricamente por realizar de manera perfecta esta acción con toda la radiación que incide sobre él.",
+"Proceso cuántico fundamental en el cual un electrón de un gas captura el paquete de energía exacto de un fotón para lograr saltar hacia un orbital más energético.",
+"Es lo que hace un material espeso y opaco con la luz visible, impidiendo por completo que atraviese su interior y transformando ese estímulo en calor residual.",
+"Acción de un medio físico de retener e incorporar pasivamente la energía de una onda o choque sonoro en lugar de reflejarlo; piensa en el verbo en su forma base."
+]
+},
+{
+"palabra": "transmitir",
+"tipo": "verbo",
+"pistas": [
+"Es el propósito ingenieril fundamental que motiva el delicado diseño de las modernas fibras ópticas translúcidas y de los gruesos cables superconductores.",
+"Permitir que las ondas electromagnéticas puras o sonoras viajen activamente a través del grosor de un medio físico determinado sin ser completamente disipadas.",
+"En el campo de las telecomunicaciones y la acústica, consiste en lograr la propagación exitosa de una señal portadora desde una antena emisora hacia un receptor.",
+"Acción de conducir de manera eficiente impulsos de energía, esfuerzos de presión o información útil a lo largo del espacio; piensa en el verbo en su forma base."
+]
+},
+{
+"palabra": "cilindro",
+"tipo": "sustantivo",
+"pistas": [
+"La formulación integral de la ley de Gauss resulta extremadamente sencilla de despejar cuando un campo eléctrico local presenta este tipo de simetría espacial alargada.",
+"Cuerpo de volumen tridimensional generado analíticamente por el desplazamiento paralelo de una línea recta generatriz que sigue continuamente una directriz circular.",
+"En el complejo análisis termodinámico de un motor clásico de combustión interna, designa a la cavidad tubular hermética dentro de la cual resbala velozmente el pistón.",
+"Cuerpo sólido alargado que se encuentra firmemente limitado por dos caras bases circulares idénticas paralelas y envuelto por una superficie lateral curva y lisa."
+]
+},
+{
+"palabra": "neutrino",
+"tipo": "particula",
+"pistas": [
+"El brillante físico Wolfgang Pauli postuló desesperadamente su esquiva existencia para poder salvar la sagrada conservación de la energía en el extraño decaimiento beta.",
+"Partícula elemental enigmática y fantasmal que apenas interactúa con la materia densa ordinaria, atravesando planetas y estrellas enteras casi sin desviar su ruta.",
+"Es un levísimo leptón sin carga de color que participa primordialmente en las interacciones débiles nucleares y se produce de forma masiva en el agitado núcleo del Sol.",
+"Partícula subatómica de carga eléctrica nula, extraordinariamente ligera, difícil de detectar con tanques de agua, de la cual existen tres esquivos sabores distintos."
+]
+},
+{
+"palabra": "voltaje",
+"tipo": "sustantivo",
+"pistas": [
+"Su clásica analogía hidrodinámica en la enseñanza de circuitos es la presión del agua que empuja con fuerza el líquido a través de unas tuberías muy estrechas.",
+"Mide analíticamente la gran diferencia de potencial electrostático que empuja de manera constante el flujo de los veloces electrones a lo largo de un bucle de cobre cerrado.",
+"Magnitud electrónica escalar que, al ser dividida directamente por la oposición total del sistema, determina matemáticamente la corriente según la inquebrantable ley de Ohm.",
+"Nivel de tensión de empuje que es suministrado por un generador o batería alcalina para lograr encender un circuito, medido siempre en su unidad estándar."
+]
+},
+{
+"palabra": "polarización",
+"tipo": "sustantivo",
+"pistas": [
+"Las costosas gafas de sol modernas para conducción filtran la molesta luz utilizando redes químicas microscópicas direccionales fundamentadas en este valioso fenómeno.",
+"Proceso ondulatorio que restringe la vibración de una onda transversal desordenada para que ocurra exclusivamente a lo largo de un único y estricto plano geométrico.",
+"En la electrostática de materiales dieléctricos, describe el veloz alineamiento direccional de las diminutas cargas internas al verse sometidas a un intenso campo externo.",
+"Propiedad física ineludible que define claramente la orientación lineal, circular o elíptica específica en la cual oscilan los campos vectoriales de un haz de luz coherente."
+]
+},
+{
+"palabra": "difracción",
+"tipo": "sustantivo",
+"pistas": [
+"Thomas Young empleó magistralmente este llamativo fenómeno en su histórico experimento de la doble rendija en pantalla para confirmar la misteriosa naturaleza ondulatoria lumínica.",
+"Efecto ondulatorio de dispersión espacial que ocurre inevitablemente cuando el frente rectilíneo de una onda choca y logra rodear hábilmente el afilado borde de un diminuto obstáculo.",
+"En cristalografía de materiales sólidos, los haces de rayos X de laboratorio sufren este ensanchamiento desviado al impactar con las redes atómicas para revelar su estructura interna.",
+"Fenómeno característico de curvatura y esparcimiento físico que sufren las ondas luminosas y acústicas al pasar forzosamente a través de una ranura o abertura muy angosta."
+]
+},
+{
+"palabra": "desintegración",
+"tipo": "sustantivo",
+"pistas": [
+"Su energética variante cuántica alfa expulsa un núcleo de helio pesado, mientras que su sorprendente variante beta transforma íntimamente un neutrón en un protón más un electrón.",
+"Decaimiento radiactivo inexorable y completamente espontáneo mediante el cual el inestable núcleo de un pesado isótopo se rompe o muta fuertemente hacia otro elemento más estable.",
+"El implacable ritmo temporal al que ocurre este evento microscópico se mide estadísticamente a través del parámetro conocido mundialmente como el tiempo de vida media de la muestra.",
+"Proceso físico de escala nuclear en el cual un átomo excitado emite peligrosas partículas de alta energía o intensos rayos gamma al fragmentarse y reducir drásticamente su masa."
+]
+},
+{
+"palabra": "estadístico",
+"tipo": "adjetivo",
+"pistas": [
+"Ludwig Boltzmann y James Clerk Maxwell fundaron sólidamente una nueva rama de la termodinámica basada de forma íntegra en este enfoque promediado del movimiento de los gases.",
+"Adjetivo utilizado profusamente para caracterizar a los métodos formales de cálculo que descansan sobre el recuento de enormes conjuntos cuánticos en lugar de predecir partículas únicas.",
+"Enfoque analítico que busca deducir las propiedades de presión o volumen macroscópicas partiendo estrictamente del análisis probabilístico incesante de innumerables microestados.",
+"Relativo al complejo modelado y análisis matemático de masivos y caóticos conjuntos de datos empíricos para hallar distribuciones de probabilidad, varianzas y márgenes de error."
+]
+},
+{
+"palabra": "derivar",
+"tipo": "verbo",
+"pistas": [
+"Geométricamente en un gráfico continuo bidimensional, este riguroso proceso analítico sirve para hallar la pendiente inclinada exacta de una esquiva recta tangente en un punto dado.",
+"Acción clave del cálculo de variables que resulta absolutamente esencial en física para lograr deducir la aceleración de un proyectil valiéndose únicamente de su función de posición.",
+"En las complejas formulaciones matemáticas de la cinemática, ejecutar este cálculo permite determinar sin dudas la tasa de cambio instantánea de cualquier función dependiente del tiempo.",
+"Acción matemática estricta que consiste en encontrar el límite temporal de un cociente de incrementos para conocer cómo varía algo en el instante; piensa en su forma base."
+]
+},
+{
+"palabra": "interferencia",
+"tipo": "sustantivo",
+"pistas": [
+"Los hermosos colores iridiscentes que adornan fugazmente las finísimas películas de aceite posadas sobre un charco urbano son el resultado macroscópico directo de este fenómeno clásico.",
+"Superposición física interactiva de dos o más frentes de onda armónicos y coherentes que se encuentran viajando simultáneamente de manera cruzada por una misma región geométrica vacía.",
+"Según el delicado acople de fase en acústica y láseres, se clasifica rigurosamente de manera analítica como constructiva si engrosa las amplitudes o como destructiva si las cancela a cero.",
+"Fenómeno característico oscilatorio en el que múltiples señales sonoras o de luz se cruzan en el trayecto, alterándose mutuamente y formando curiosos patrones de rayas claras y franjas oscuras."
+]
+},
+{
+"palabra": "finito",
+"tipo": "adjetivo",
+"pistas": [
+"La inquebrantable teoría de la relatividad postula taxativamente que el veloz ritmo de propagación causal de cualquier tipo de señal en el cosmos posee de forma obligatoria esta cualidad limitante.",
+"Adjetivo que describe con rigor matemático a un sistema termodinámico cerrado que ostenta fronteras espaciales contables o que abarca una cantidad acotada de posibles microestados en equilibrio.",
+"Atributo dimensional que caracteriza a toda porción del espacio, de una escala de tiempo o de un grupo numérico real que en ningún momento se proyecta sin límites hacia la inmensidad inabarcable.",
+"Que dispone de una medida máxima establecida, de una frontera muy clara o de un final totalmente contable, siendo la contraparte directa de aquello que catalogamos como interminable e infinito."
+]
+},
+{
+"palabra": "bosón",
+"tipo": "particula",
+"pistas": [
+"La extrema condensación gélida a temperaturas cercanas al cero absoluto de estas peculiares entidades permitió a la ciencia crear en el laboratorio el quinto y exótico estado de la materia fluida.",
+"Familia muy particular de partículas subatómicas elementales portadoras de las fuerzas, que ostentan la extraña capacidad gregaria de no verse afectadas por el excluyente principio de Pauli.",
+"Su espín cuántico intrínseco de rotación resulta ser siempre un número entero exacto, y este gran grupo abarca como miembros al brillante fotón, a los pegajosos gluones y a la partícula de Higgs.",
+"Partícula del modelo estándar responsable de mediar y transmitir interacciones entre la materia densa, cuya naturaleza dócil permite que millones de copias ocupen exactamente el mismo nivel energético."
+]
+},
+{
+"palabra": "fricción",
+"tipo": "sustantivo",
+"pistas": [
+"La generalizada y costosa aplicación de aceites y lubricantes viscosos en los talleres de mecánica tiene como único propósito fundamental aminorar enormemente este molesto fenómeno que daña los metales.",
+"Compleja oposición de carácter no conservativo generada a nivel molecular por la rugosidad de contacto, que se encarga de robar la útil energía de movimiento para disiparla irreversiblemente como calor.",
+"En los diagramas de cuerpo libre planteados por Newton, es la persistente fuerza reactiva rasante y paralela que siempre se orienta obstinadamente en dirección contraria al movimiento de una pesada caja.",
+"Resistencia física continua que se experimenta en pleno arrastre, freno o rodadura al tratar de deslizar forzosamente y frotar dos superficies sólidas ásperas la una en contra de la otra."
+]
+},
+{
+"palabra": "colisión",
+"tipo": "sustantivo",
+"pistas": [
+"En la moderna teoría cinética de gases ideales, la cuantiosa presión empírica que soporta cualquier rígido muro contenedor es en realidad el fruto directo y acumulativo de billones de sucesos veloces de este tipo.",
+"Interacción sumamente violenta, breve y espacialmente confinada, en el curso de la cual dos astros o partículas de materia intercambian de forma drástica brutales cantidades de momento lineal y de energía.",
+"En la rigurosa mecánica newtoniana de laboratorio, este intenso cruce analítico se clasifica como perfectamente elástico si conserva intacta la energía inicial, o como totalmente inelástico si disipa un gran porcentaje.",
+"Evento físico dinámico e instantáneo en donde dos veloces cuerpos u objetos materiales se encuentran en ruta e impactan frontalmente sufriendo un enorme golpe, rebotando tras ello al igual que en el billar."
+]
+},
+{
+"palabra": "segundo",
+"tipo": "unidad",
+"pistas": [
+"Originalmente determinado astronómicamente como una pequeña y exacta fracción de la rotación diurna terrestre, hoy depende únicamente del implacable y constante conteo de las finísimas oscilaciones del isótopo de cesio.",
+"Componente temporal imprescindible que se ubica obligatoriamente y al cuadrado en el denominador numérico de la métrica estandarizada que cuantifica la tasa de aceleración dentro del sistema métrico internacional oficial.",
+"Su minúsculo y constante transcurrir es captado como fuertemente dilatado y perezoso desde la lejana y tranquila óptica de un observador inercial cuando ocurre en las terroríficas y densas cercanías de un pozo gravitacional.",
+"Unidad base canónica del tiempo en el inquebrantable y riguroso sistema de pesas y medidas planetario, conocida coloquialmente por equivaler matemáticamente a la sexagésima y fraccionaria parte del efímero minuto de reloj."
+]
+},
+{
+"palabra": "oro",
+"tipo": "sustantivo",
+"pistas": [
+"Ernest Rutherford ideó y montó un histórico arreglo experimental en el que disparó densas partículas alfa sobre una finísima y delgada lámina de este inalterable metal puro para demostrar que el átomo es puro vacío interior.",
+"Magnífico conductor de electrones provisto de una excelente e indestructible resistencia natural a la oxidación, el cual recubre por ende los estratégicos contactos internos y las tarjetas lógicas de los vehículos espaciales robóticos.",
+"Dúctil metal de transición que pertenece orgullosamente al prestigioso grupo once de los elementos, valorado por la alquimia antigua y respetado en la ciencia térmica moderna por sus características de altísima maleabilidad estructural.",
+"Elemento químico brillante con símbolo de dos letras proveniente del latín y número atómico masivo de setenta y nueve, célebre en la historia mundial por su vivo color amarillo inmaculado y su extremado peso en las balanzas."
+]
+},
+{
+"palabra": "galaxia",
+"tipo": "sustantivo",
+"pistas": [
+"El legendario astrónomo Edwin Hubble catalogó metódicamente el paulatino corrimiento óptico hacia el rojo de estas remotas macroestructuras lejanas y difusas para lograr deducir que el entero tejido del cosmos sigue expandiéndose.",
+"Sistema gravitacional asombrosamente inmenso y autónomo que rota perennemente en el profundo vacío y suele orbitar sin pausa alguna bajo el abrumador control ejercido por el tirón atractor de un oscuro objeto supermasivo central.",
+"Su variada apariencia macroscópica de miles de años luz es clasificada morfológicamente mediante el esquema de diapasón estelar, agrupándolas primordialmente en vórtices espirales majestuosos o en nubes de tipo elípticas regulares.",
+"Enorme e insondable aglomeración astronómica que confina a millones y millones de candentes estrellas, gas turbulento, sistemas solares y oscuro polvo interestelar flotante, de las cuales la renombrada Vía Láctea es tan solo una más."
+]
+},
+{
+"palabra": "intervalo",
+"tipo": "sustantivo",
+"pistas": [
+"En el rígido marco de la curiosa métrica del espacio-tiempo plano de Minkowski, el sagrado valor de esta separación analítica se conserva asombrosamente invariante a pesar de los dispares sistemas de referencia de distintos observadores.",
+"Acotada porción cuantitativa que interrumpe o separa a un segmento continuo del flujo cronológico y también a una simple recta geométrica unidimensional, limitándose siempre de forma tajante mediante la presencia de dos puntos extremos.",
+"Segmento matemático de carácter continuo y numéricamente denso sobre el cual un riguroso científico decide integrar progresivamente una variable o delimitar con gran precisión en qué dominio específico actúa una fuerza concreta de laboratorio.",
+"Distancia temporal muy acotada o trozo espacial estricto que debe forzosamente transcurrir para separar limpiamente el inicio exacto del veloz final de un determinado suceso físico o evento medible a escala de un laboratorio cerrado."
+]
+},
+{
+"palabra": "sensor",
+"tipo": "sustantivo",
+"pistas": [
+"El interior geométrico de los gigantescos detectores de colisiones de hadrones está tapizado minuciosa e intrincadamente con estos microcomponentes de silicio cuyo solitario fin es trazar analíticamente el vuelo veloz de los escombros nucleares.",
+"Eficiente dispositivo transductor de respuesta lineal expresamente diseñado para percibir microscópicas variaciones energéticas empíricas y convertirlas enseguida en una limpia diferencia de potencial digital para el posterior procesamiento matemático.",
+"Órgano electrónico periférico elemental que resulta clave y forzoso para asegurar la estabilidad de la robótica autónoma moderna y los termostatos, dada su probada facultad para rastrear continuamente la presión termodinámica o la luz roja.",
+"Mecanismo sensible fabricado mediante tecnología de semiconductores miniaturizados para captar instantáneamente alteraciones en un ambiente, tales como subidas de calor, movimiento brusco o presencia de radiación perjudicial para el humano."
+]
+},
+{
+"palabra": "imán",
+"tipo": "sustantivo",
+"pistas": [
+"Por más empeño mecánico con el que se fragmente por la mitad a este asombroso material dipolar en el banco de trabajo, jamás se aislará un monopolo empírico y los restos poseerán irremediablemente sus respectivos terminales de fuerte atracción.",
+"Macizo objeto que tiene por característica microscópica intrínseca poseer y alinear masiva y unidireccionalmente sus miles de dominios cuánticos de espín con la finalidad de establecer en sus alrededores un denso y permanente campo de fuerza invisible.",
+"Su callada pero firme influencia logra trazar con asombrosa claridad líneas de contorno en un papel blanco, manifestándose físicamente a simple vista si se esparcen de manera descuidada finísimas limaduras de un polvo de material puramente metálico y opaco.",
+"Pieza densa fabricada comúnmente con valiosas aleaciones artificiales o que se halla en estado bruto como la piedra magnetita oscura, portadora del espectacular poder asimétrico de atraer ciegamente tornillos, clips y objetos fabricados usando níquel o acero."
+]
+},
+{
+"palabra": "acero",
+"tipo": "sustantivo",
+"pistas": [
+"Se utiliza habitualmente en la construcción de imanes permanentes y núcleos de transformadores debido a su alta retentividad magnética.",
+"Esta aleación metálica destaca en ensayos mecánicos por su alto módulo de Young y resistencia a la tracción.",
+"Es un material ferromagnético compuesto principalmente por hierro con un pequeño porcentaje de carbono.",
+"Metal de gran importancia industrial que combina hierro y carbono, ampliamente estudiado en la ciencia de materiales por sus fases cristalinas."
+]
+},
+{
+"palabra": "lorentz",
+"tipo": "nombre_propio",
+"pistas": [
+"Introdujo el concepto de tiempo local antes de que se formulara la relatividad especial de manera definitiva.",
+"Formuló la expresión de la fuerza que actúa sobre una carga eléctrica en movimiento dentro de un campo electromagnético.",
+"Sus famosas transformaciones de coordenadas explican la contracción de la longitud y la dilatación del tiempo.",
+"Físico neerlandés que comparte nombre con las ecuaciones que conectan los sistemas de referencia a altas velocidades."
+]
+},
+{
+"palabra": "maxwell",
+"tipo": "nombre_propio",
+"pistas": [
+"Propuso el concepto de corriente de desplazamiento para unificar fenómenos que parecían independientes.",
+"Demostró teóricamente que la luz es una perturbación electromagnética que se propaga a velocidad constante.",
+"Sus famosas cuatro ecuaciones fundamentales sintetizan por completo las leyes de la electricidad y el magnetismo.",
+"Científico escocés del siglo XIX cuyo trabajo en electromagnetismo comparte relevancia histórica con Newton e Einstein."
+]
+},
+{
+"palabra": "inverso",
+"tipo": "adjetivo",
+"pistas": [
+"Describe la dependencia geométrica de la intensidad de una onda respecto al cuadrado de la distancia a su origen.",
+"Modifica una propiedad de tal manera que si una cantidad se duplica, la otra se reduce a la mitad.",
+"Es el tipo de relación matemática que vincula la frecuencia con el periodo en un movimiento cíclico.",
+"Concepto matemático aplicado a magnitudes que varían de forma opuesta, donde una equivale al elemento recíproco de la otra."
+]
+},
+{
+"palabra": "mercurio",
+"tipo": "sustantivo",
+"pistas": [
+"Su comportamiento térmico regular lo convirtió en la opción ideal para calibrar los primeros instrumentos de medición de temperatura precisos.",
+"Se utilizó históricamente en el experimento de Torricelli para demostrar la existencia del vacío y medir la presión atmosférica.",
+"Elemento químico de transición que destaca por ser el único metal que permanece en estado líquido a temperatura ambiente.",
+"Elemento de número atómico 80 que forma una columna brillante dentro de los termómetros analógicos tradicionales."
+]
+},
+{
+"palabra": "oscilación",
+"tipo": "sustantivo",
+"pistas": [
+"Su estudio analítico requiere del uso de funciones trigonométricas como el seno y el coseno para describir el estado del sistema.",
+"Representa el movimiento repetitivo de un sistema en torno a una posición de equilibrio estable.",
+"Es la perturbación periódica temporal que da origen a las ondas mecánicas cuando se propaga por un medio.",
+"Vaivén regular de un cuerpo, como el de un péndulo, caracterizado por su amplitud y su frecuencia."
+]
+},
+{
+"palabra": "estabilidad",
+"tipo": "sustantivo",
+"pistas": [
+"Se alcanza plenamente cuando la derivada de la energía potencial respecto a la posición es cero y la segunda derivada es positiva.",
+"Condición de un sistema mecánico que regresa espontáneamente a su configuración inicial tras sufrir una leve perturbación.",
+"Propiedad del equilibrio dinámico o estático que evita que un objeto se vuelque o que un núcleo atómico se desintegre.",
+"Cualidad de un sistema que permanece constante o firme frente a alteraciones externas, resistiendo el cambio de estado."
+]
+},
+{
+"palabra": "descarga",
+"tipo": "sustantivo",
+"pistas": [
+"Fenómeno que ocurre abruptamente cuando el campo eléctrico supera el límite de aislamiento del medio.",
+"Proceso mediante el cual un condensador libera la energía almacenada en su campo eléctrico interno hacia un circuito.",
+"Consiste en el flujo violento de electrones que neutraliza la diferencia de potencial acumulada entre dos cuerpos cargados.",
+"Liberación repentina de corriente eléctrica acumulada, cuyo ejemplo natural más evidente es un rayo durante una tormenta."
+]
+},
+{
+"palabra": "fermi",
+"tipo": "nombre_propio",
+"pistas": [
+"Lideró el diseño y la construcción del primer reactor nuclear artificial del mundo en la Universidad de Chicago.",
+"Introdujo la descripción estadística para las partículas de espín semientero que obedecen el principio de exclusión.",
+"Su apellido da nombre a un nivel de energía electrónico fundamental, a una familia de partículas elementales y a una paradoja sobre vida extraterrestre.",
+"Científico italiano del siglo XX, pionero de la energía nuclear y homónimo de la categoría que incluye a leptones y quarks."
+]
+},
+{
+"palabra": "triángulo",
+"tipo": "sustantivo",
+"pistas": [
+"Figura geométrica utilizada en la descomposición estática de fuerzas concurrentes para aplicar el teorema de Lami.",
+"Polígono empleado en la suma vectorial geométrica donde el vector resultante une el origen del primero con el extremo del último.",
+"Estructura geométrica elemental que permite descomponer cualquier vector en dos dimensiones usando funciones trigonométricas.",
+"Forma geométrica de tres lados que sirve de base para definir las componentes cartesianas mediante el seno y el coseno."
+]
+},
+{
+"palabra": "valencia",
+"tipo": "sustantivo",
+"pistas": [
+"Determina la posición del nivel ocupado más alto que define si un sólido se comporta como aislante o semiconductor en la teoría de bandas.",
+"Región de energía electrónica cuyos electrones participan directamente en la formación de enlaces químicos y moleculares.",
+"Banda energética inferior que se encuentra separada de la banda de conducción por una zona prohibida o gap.",
+"Capa más externa de un átomo que aloja a los electrones responsables de las interacciones y uniones con otros elementos."
+]
+},
+{
+"palabra": "pulso",
+"tipo": "sustantivo",
+"pistas": [
+"Perturbación transitoria y aislada que transporta energía a través de una cuerda sin repetir su forma cíclicamente.",
+"Señal electromagnética de muy corta duración que se propaga conservando su identidad antes de disiparse.",
+"Onda única no periódica que consta de una sola cresta o valle viajando por un medio elástico.",
+"Breve emisión de energía u onda solitaria que altera un medio por un instante antes de volver al reposo."
+]
+},
+{
+"palabra": "aerodinámico",
+"tipo": "adjetivo",
+"pistas": [
+"Su diseño óptimo busca minimizar el desprendimiento de la capa límite en la superficie de un objeto en movimiento.",
+"Describe la forma geométrica exterior de un cuerpo concebida para reducir la fuerza de resistencia al avanzar en un fluido gaseoso.",
+"Relativo al estudio de las fuerzas que ejerce el aire sobre perfiles como las alas de un avión o la carrocería de un coche de carreras.",
+"Concepto que califica a un objeto con forma estilizada y eficiente para cortar el viento minimizando la fricción del aire."
+]
+},
+{
+"palabra": "galileo",
+"tipo": "nombre_propio",
+"pistas": [
+"Utilizó un plano inclinado para dilatar el tiempo en sus experimentos sobre la caída de los cuerpos pesados.",
+"Formuló el principio de relatividad clásico que establece que las leyes de la mecánica son idénticas en cualquier sistema sin aceleración.",
+"Astrónomo italiano que descubrió las cuatro lunas principales de Júpiter y defendió firmemente el modelo heliocéntrico.",
+"Científico de Pisa del siglo XVII considerado el padre de la física moderna por introducir el método experimental."
+]
+},
+{
+"palabra": "astrofísica",
+"tipo": "sustantivo",
+"pistas": [
+"Emplea la espectroscopía para deducir la composición química y la temperatura de objetos situados a años luz de distancia.",
+"Aplica las leyes de la termodinámica, la relatividad y el electromagnetismo al estudio de la evolución de las estrellas y galaxias.",
+"Rama de la ciencia espacial que investiga las propiedades físicas y los procesos energéticos de los cuerpos celestes.",
+"Disciplina científica que fusiona la astronomía con las leyes físicas para explicar la naturaleza del cosmos y los astros."
+]
+},
+{
+"palabra": "gradiente",
+"tipo": "sustantivo",
+"pistas": [
+"Operador diferencial que transforma un campo escalar en un campo vectorial indicando la dirección de máxima variación.",
+"Su valor negativo aplicado al potencial eléctrico proporciona directamente el vector de campo eléctrico en esa región.",
+"Magnitud que expresses la tasa de cambio de una variable, como la temperatura o la presión, por unidad de longitud espacial.",
+"Medida de la variación de una magnitud física al desplazarse en el espacio; representa la inclinación o rampa de un potencial."
+]
+},
+{
+"palabra": "revolución",
+"tipo": "sustantivo",
+"pistas": [
+"Movimiento donde la aceleración centrípeta es constante en módulo si la velocidad angular del cuerpo no cambia.",
+"Giro completo de un objeto rígido alrededor de un eje que equivale a un ángulo de dos pi radianes.",
+"Término utilizado en cinemática rotacional para contabilizar las vueltas completas efectuadas por unidad de tiempo.",
+"Rotación completa de un cuerpo sobre su propio eje o alrededor de otro, sinónimo de una vuelta entera."
+]
+},
+{
+"palabra": "pico",
+"tipo": "sustantivo",
+"pistas": [
+"Punto crítico en una curva de resonancia donde la transferencia de energía al oscilador alcanza su valor máximo absoluto.",
+"Representa el valor extremo superior que toma una señal alterna y determina el límite superior de su amplitud.",
+"Cresta más alta en un gráfico de intensidad que corresponde a una interferencia constructiva o a una línea de emisión espectral.",
+"Máximo valor alcanzado por una onda o gráfica, opuesto simétricamente al punto más bajo llamado valle."
+]
+},
+{
+"palabra": "horizonte",
+"tipo": "sustantivo",
+"pistas": [
+"Superficie matemática que marca el límite donde la velocidad de escape iguala exactamente a la velocidad de la luz en el vacío.",
+"Frontera espacial interna en una métrica de Schwarzschild de la cual ninguna señal o información puede salir hacia el exterior.",
+"Límite invisible que rodea a un agujero negro de densidad infinita, asociado históricamente al radio de Schwarzschild.",
+"Región del espacio-tiempo conocida como la frontera de sucesos de un colapso gravitatorio absoluto."
+]
+},
+{
+"palabra": "notación",
+"tipo": "sustantivo",
+"pistas": [
+"Sistema de representation simbólica indispensable para formular operadores diferenciales y tensores en teorías complejas.",
+"Conjunto de convenciones tipográficas que permite expresar magnitudes extremadamente grandes o pequeñas mediante potencias de diez.",
+"Convención matemática formal, como la de Dirac o la científica, utilizada para registrar estados cuánticos y mediciones experimentales.",
+"Forma estandarizada de escribir números o variables usando símbolos, letras y exponentes para simplificar las ecuaciones."
+]
+},
+{
+"palabra": "armónico",
+"tipo": "adjetivo",
+"pistas": [
+"Califica al movimiento cuya fuerza restauradora es linealmente proporcional al desplazamiento desde la posición central.",
+"Describe a cada componente de frecuencia entera que acompaña a la frecuencia fundamental en una onda compleja.",
+"Tipo de oscilador idealizado, como el constituido por una masa y un muelle, regulado por la ley de Hooke.",
+"Término que define a un movimiento oscilatorio simple y regular regido por funciones sinusoidales puras."
+]
+},
+{
+"palabra": "cuántica",
+"tipo": "adjetivo",
+"pistas": [
+"Propiedad de los sistemas físicos a escala microscópica donde ciertas magnitudes no pueden tomar valores continuos.",
+"Describe el comportamiento dual de onda y partícula manifestado por la radiación y la materia a nivel atómico.",
+"Rama de la física moderna asociada a constantes fundamentales como la de Planck y al principio de incertidumbre de Heisenberg.",
+"Relativo a las unidades discretas de energía y a la mecánica no clásica que gobierna el mundo de los átomos y partículas subatómicas."
+]
+},
+{
+"palabra": "inercia",
+"tipo": "sustantivo",
+"pistas": [
+"Propiedad intrínseca cuya medida cuantitativa directa en movimientos de traslación es la masa de un cuerpo.",
+"Resistencia natural que oponen todos los cuerpos materiales a modificar su estado de reposo o de movimiento rectilíneo uniforme.",
+"Fundamento central de la primera ley de Newton que postula la conservación de la velocidad cuando la fuerza neta es nula.",
+"Tendencia de los objetos a mantener su estado dinámico actual a menos que una fuerza externa los obligue a cambiar."
+]
+},
+{
+"palabra": "rígido",
+"tipo": "adjetivo",
+"pistas": [
+"Modelo mecánico idealizado donde la distancia mutua entre dos puntos cualesquiera permanece estrictamente invariable ante fuerzas externas.",
+"Sistema de partículas cuyas deformaciones elásticas o plásticas son nulas al someterse a tensiones o colisiones.",
+"Tipo de sólido que posee un momento de inercia definido y cuya cinemática se describe mediante traslación y rotación puras.",
+"Cuerpo indeformable que mantiene su estructura espacial inalterada sin importar las fuerzas aplicadas sobre él."
+]
+},
+{
+"palabra": "conductividad",
+"tipo": "sustantivo",
+"pistas": [
+"Magnitud que actúa como la constante de proporcionalidad en la forma local de la ley de Ohm vinculando densidad de corriente y campo eléctrico.",
+"Propiedad que mide la capacidad intrínseca de una sustancia para permitir el paso de cargas libres o flujo térmico a través de ella.",
+"Es la propiedad inversa de la resistividad eléctrica y varía notablemente entre metales, semiconductores y aislantes.",
+"Magnitud que indica la facilidad de un material para transportar electricidad o calor, siendo sumamente elevada en el cobre."
+]
+},
+{
+"palabra": "aleatorio",
+"tipo": "adjetivo",
+"pistas": [
+"Describe el comportamiento del movimiento browniano provocado por los impactos térmicos impredecibles de las moléculas de un fluido.",
+"Proceso probabilístico cuyo resultado exacto no se puede predecir con certeza, gobernado por fluctuaciones estadísticas.",
+"Tipo de error experimental que no es sistemático y que disminuye su impacto al promediar un gran número de mediciones independientes.",
+"Suceso fortuito o al azar que depende puramente de la probabilidad y que define procesos como la desintegración radiactiva espontánea."
+]
+},
+{
+"palabra": "plata",
+"tipo": "sustantivo",
+"pistas": [
+"Elemento con la resistividad eléctrica más baja conocida a temperatura ambiente entre todos los componentes de la tabla periódica.",
+"Metal noble empleado frecuentemente para fabricar espejos de alta reflectividad debido a su excelente respuesta óptica en el espectro visible.",
+"Elemento químico de número atómico 47 que supera al cobre y al oro en términos de transporte eléctrico y térmico.",
+"Elemento metálico precioso de símbolo Ag que destaca por permitir el transporte eléctrico con la mayor eficiencia existente."
+]
+},
+{
+"palabra": "elástico",
+"tipo": "adjetivo",
+"pistas": [
+"Tipo de colisión mecánica donde la energía cinética total del sistema se conserva íntegramente antes y después del impacto.",
+"Propiedad de un sólido que recupera su volumen y forma originales inmediatamente después de retirar los esfuerzos de tracción.",
+"Régimen de deformación lineal gobernado por la ley de Hooke antes de alcanzar el límite plástico o de ruptura del material.",
+"Calificativo de un cuerpo o choque que vuelve a su estado inicial sin disipar energía en forma de calor ni dejar deformaciones permanentes."
+]
+},
+{
+"palabra": "gauge",
+"tipo": "sustantivo",
+"pistas": [
+"Tipo de simetría local bajo la cual las ecuaciones de campo permanecen invariantes al transformar las fases de las funciones de onda.",
+"Teoría cuántica de campos que describe las interacciones fundamentales mediante el intercambio de bosones vectoriales mediadores.",
+"Concepto matemático de calibre indispensable en el electromagnetismo para elegir condiciones sobre los potenciales escalar y vectorial.",
+"Término en inglés usado en física de partículas para designar las teorías de campo basadas en la invariancia de transformaciones locales."
+]
+},
+{
+"palabra": "proyección",
+"tipo": "sustantivo",
+"pistas": [
+"Operación geométrica que permite obtener la componente de un vector a lo largo de una línea mediante el producto escalar con un vector unitario.",
+"Sombra matemática que arroja una magnitud vectorial sobre un eje de coordenadas cartesiano tras aplicar una función trigonométrica.",
+"Representación de un vector sobre una dirección determinada usando el coseno del ángulo comprendido entre ambos.",
+"Componente obtenida al reflejar perpendicularmente un vector sobre uno de los ejes coordenados del sistema de referencia."
+]
+},
+{
+"palabra": "simulación",
+"tipo": "sustantivo",
+"pistas": [
+"Permite explorar escenarios físicos donde los experimentos reales serían demasiado costosos, peligrosos o directamente imposibles de montar.",
+"Recrea el comportamiento de un sistema complejo a lo largo del tiempo utilizando modelos matemáticos discretizados.",
+"Complementa a la teoría y al experimento resolviendo numéricamente ecuaciones diferenciales en áreas como la astrofísica o la dinámica de fluidos.",
+"Representación virtual de un fenómeno físico ejecutada en un ordenador para predecir su evolución."
+]
+},
+{
+"palabra": "correlación",
+"tipo": "sustantivo",
+"pistas": [
+"En sistemas de muchos cuerpos, su presencia indica que las partículas no actúan de manera verdaderamente independiente entre sí.",
+"Mide la tendencia de dos variables físicas a fluctuar de forma conjunta o dependiente en un conjunto de datos recopilados.",
+"En mecánica estadística y cuántica, el entrelazamiento es la versión más extrema y no local de este concepto matemático.",
+"Medida estadística del grado de asociación o dependencia lineal entre dos magnitudes observadas experimentalmente."
+]
+},
+{
+"palabra": "perturbación",
+"tipo": "sustantivo",
+"pistas": [
+"A veces es un simple ruido que altera la toma de datos, pero a escala cosmológica primigenia inició la formación de estructuras masivas.",
+"Modificación pequeña introducida artificialmente en un sistema conocido para calcular analíticamente los efectos de interacciones débiles.",
+"Da nombre a una poderosa técnica matemática utilizada en mecánica cuántica para aproximar soluciones de hamiltonianos complejos.",
+"Pequeña alteración o desviación en el estado de equilibrio o en la trayectoria regular de un cuerpo físico."
+]
+},
+{
+"palabra": "espectroscopia",
+"tipo": "sustantivo",
+"pistas": [
+"Su invención permitió a los astrónomos descubrir la firma química oculta en la luz emitida por objetos situados a años luz.",
+"Se encarga de aislar, medir y registrar la radiación electromagnética según su longitud de onda o frecuencia característica.",
+"Rama fundamental de la óptica empírica y la química cuántica que estudia en detalle la interacción entre la materia y los fotones.",
+"Técnica analítica que utiliza la dispersión de la luz para identificar la composición atómica o molecular de una muestra."
+]
+},
+{
+"palabra": "fractal",
+"tipo": "sustantivo",
+"pistas": [
+"La intrincada longitud de la costa de un país o la estructura de ramificación de un copo de nieve están gobernadas por este modelo.",
+"Describe sistemas con dimensión no entera que exhiben propiedades de autosimilitud sin importar los aumentos aplicados.",
+"En la física del caos y la dinámica no lineal, los atractores extraños suelen adoptar inevitablemente esta topología particular.",
+"Objeto matemático o estructura geométrica cuyo patrón básico irregular se repite infinitamente a diferentes escalas de observación."
+]
+},
+{
+"palabra": "aristóteles",
+"tipo": "nombre_propio",
+"pistas": [
+"Su visión teleológica del movimiento natural hacia un fin predeterminado dominó el pensamiento occidental durante casi dos milenios.",
+"Postuló teóricamente que los cuerpos celestes estaban formados por una quintaesencia inalterable diferente a los elementos pesados terrestres.",
+"Sostuvo firmemente que el estado natural de la materia ordinaria es el reposo, dogma que se mantuvo hasta la revolución copernicana.",
+"Filósofo griego de la Antigüedad que elaboró el primer sistema comprensivo para explicar los fenómenos del mundo físico observable."
+]
+},
+{
+"palabra": "viscosidad",
+"tipo": "sustantivo",
+"pistas": [
+"Su valor macroscópico disminuye drásticamente en los gases al calentarse, pero ocurre el efecto opuesto en la mayoría de los fluidos incompresibles.",
+"Determina la magnitud de la resistencia interna que experimenta un material continuo al intentar desplazarse bajo una tensión de corte.",
+"En la dinámica de fluidos hidrodinámica, es la propiedad central responsable de la fricción interna y de la creación de la capa límite aerodinámica.",
+"Magnitud de transporte que mide cuantitativamente el grado de espesura o la dificultad de fluir libremente de un líquido."
+]
+},
+{
+"palabra": "plutonio",
+"tipo": "sustantivo",
+"pistas": [
+"Fue sintetizado en laboratorio por primera vez en un ciclotrón bombardeando núcleos de uranio con un haz de deuterones.",
+"Elemento radiactivo sintético de gran masa que experimenta escisión y libera neutrones masivamente en ciertas configuraciones.",
+"Actínido clave en el desarrollo del Proyecto Manhattan que proporcionó el núcleo activo del dispositivo explosivo Trinity.",
+"Elemento transuránico fisible de número atómico 94, homónimo del cuerpo celeste que antes se consideraba el noveno planeta del sistema solar."
+]
+},
+{
+"palabra": "fermión",
+"tipo": "particula",
+"pistas": [
+"Su naturaleza esencialmente asocial genera una presión de degeneración que impide que las enanas blancas colapsen en agujeros negros.",
+"Familia completa de constituyentes que obedece rígidamente el principio de exclusión de Pauli dentro de los sistemas cuánticos confinados.",
+"Componente de la materia bariónica y leptónica con espín semientero que sigue una estadística cuántica opuesta a la de los portadores de fuerza.",
+"Partícula elemental fundamental, como el electrón o el quark, caracterizada por su incapacidad de compartir idéntico estado cuántico."
+]
+},
+{
+"palabra": "hidráulico",
+"tipo": "adjetivo",
+"pistas": [
+"Describe sistemas mecánicos cerrados donde el principio fundamental de Pascal se explota ingeniosamente para multiplicar la fuerza de entrada.",
+"Relativo a cualquier tecnología, red o fenómeno físico que emplea fluidos incompresibles confinados para transmitir potencia sostenida.",
+"Adjetivo técnico frecuentemente asociado a la operación de prensas, frenos y gatos de elevación basados en la transferencia de presión estática.",
+"Calificativo de un mecanismo industrial o físico impulsado exclusivamente por el movimiento o la alta presión del agua u otros líquidos densos."
+]
+},
+{
+"palabra": "atracción",
+"tipo": "sustantivo",
+"pistas": [
+"A escalas cosmológicas extremas, es la única influencia capaz de moldear la arquitectura a gran escala y evitar la expansión total del universo.",
+"Fenómeno direccional por el cual dos cuerpos dotados de masa o dos cargas de signo opuesto tienden de manera natural a acercarse mutuamente.",
+"Manifestación fundamental de las fuerzas naturales que contrarresta la repulsión electrostática dentro del núcleo atómico y une a los cuerpos celestes.",
+"Acción mutua de acercamiento paulatino entre masas por gravedad o entre imanes debido a polos magnéticos complementarios."
+]
+},
+{
+"palabra": "ultravioleta",
+"tipo": "adjetivo",
+"pistas": [
+"La teórica catástrofe que lleva su nombre obligó a la física de finales del siglo diecinueve a replantearse la distribución espectral del cuerpo negro.",
+"Califica a la banda de radiación altamente fotónica responsable de ionizar átomos en la alta atmósfera y generar el frágil escudo de ozono.",
+"Porción invisible del espectro electromagnético situada justo por encima del extremo óptico de alta energía y justo por debajo de la región de los rayos X.",
+"Tipo de luz de onda corta imperceptible al ojo humano, cuyo nombre latino indica literalmente que se encuentra más allá del color morado."
+]
+},
+{
+"palabra": "dirac",
+"tipo": "nombre_propio",
+"pistas": [
+"Logró lo impensable al combinar con éxito matemático las ideas cinemáticas de la relatividad especial con las matrices de la naciente mecánica cuántica.",
+"Su rigurosa formulación del comportamiento del electrón predijo, para asombro general, la existencia de copias especulares con carga positiva neta.",
+"Presta su apellido a una ecuación relativista trascendental, a la estadística de las partículas que forman la materia y a la función delta generalizada.",
+"Físico teórico británico de mente silenciosa que predijo algebraicamente la existencia de la antimateria en la primera mitad del siglo veinte."
+]
+},
+{
+"palabra": "hamiltoniano",
+"tipo": "sustantivo",
+"pistas": [
+"Constituye el núcleo central algebraico de la poderosa reformulación que reemplazó a la mecánica vectorial de fuerzas mediante principios variacionales.",
+"Operador matricial o diferencial que encierra la información completa para predecir la evolución temporal determinista de cualquier sistema cerrado.",
+"En el formalismo de la mecánica cuántica canónica, es el observable más importante, pues sus autovalores determinan los distintos niveles energéticos.",
+"Función matemática maestra que se define habitualmente como la suma algebraica de las energías cinética y potencial de un sistema conservativo."
+]
+},
+{
+"palabra": "cobre",
+"tipo": "sustantivo",
+"pistas": [
+"Su extraordinario equilibrio natural entre costo de extracción y bajísima resistividad óhmica lo coronó rey de las redes de transmisión energética mundiales.",
+"Metal de transición de comportamiento diamagnético que resulta insustituible en la confección del devanado de los motores y generadores rotativos.",
+"En la tabla periódica comparte columna con la plata y el oro en el histórico grupo de acuñación, destacando industrialmente por su soberbia ductilidad.",
+"Elemento metálico rojizo brillante de número atómico veintinueve, empleado universalmente por la civilización moderna para fabricar conductores eléctricos."
+]
+},
+{
+"palabra": "schrödinger",
+"tipo": "nombre_propio",
+"pistas": [
+"Desafió profundamente el consenso de la ortodoxia de Copenhague ideando un experimento mental letal para cuestionar el colapso de la superposición.",
+"Cimentó el edificio de la mecánica ondulatoria publicando la ecuación diferencial central que dicta la propagación de las amplitudes de probabilidad.",
+"Comparte la gloria de cimentar la teoría cuántica no relativista junto a Heisenberg, y legó a la cultura popular una famosa paradoja zoológica.",
+"Físico teórico austríaco universalmente célebre por su formulación del estado cuántico y por su ficticio felino encerrado en una caja radioactiva."
+]
+},
+{
+"palabra": "cosmología",
+"tipo": "sustantivo",
+"pistas": [
+"Su debate central de las últimas décadas gira en torno al destino de la métrica espacial, oscilando entre una expansión eterna fría o un colapso final ardiente.",
+"Escruta el tenue fondo cósmico de microondas buscando reliquias térmicas para reconstruir los primerísimos instantes posteriores a la gran explosión.",
+"Rama fundamental de la ciencia astrofísica que confía plenamente en las soluciones de la relatividad general para modelar matemáticamente todo el universo.",
+"Disciplina científica abarcativa dedicada por entero al estudio del origen cronológico, la evolución a gran escala y el destino último del cosmos."
+]
+},
+{
+"palabra": "éter",
+"tipo": "sustantivo",
+"pistas": [
+"La demostración empírica de que la velocidad de propagación lumínica era isótropa desde la Tierra terminó enviando este modelo al olvido histórico.",
+"Medio inercial sutil y penetrante postulado clásicamente por necesidad para explicar el soporte físico de la propagación de la radiación ondulatoria.",
+"Sustrato fantasmal decimonónico que los célebres interferómetros construidos por Michelson y Morley intentaron detectar sin el menor atisbo de éxito.",
+"Sustancia hipotética, invisible y carente de fricción, que la física clásica suponía que llenaba el vacío del espacio permitiendo viajar a la luz."
+]
+},
+{
+"palabra": "antena",
+"tipo": "sustantivo",
+"pistas": [
+"Su geometría y dimensiones físicas se calibran rigurosamente para resonar como fracciones exactas de la longitud de la perturbación que maneja.",
+"Estructura conductora expuesta diseñada ingenierilmente con el único propósito de irradiar o capturar oscilaciones electromagnéticas en el vacío.",
+"Transductor metálico esencial en toda red de telecomunicaciones modernas por su capacidad de acoplar corrientes alternas a campos irradiantes.",
+"Varilla o plato parabólico instalado en torres o tejados que opera como emisor o receptor activo de señales de televisión o comunicaciones de radio."
+]
+},
+{
+"palabra": "mol",
+"tipo": "unidad",
+"pistas": [
+"La inmensidad numérica implícita en su definición es el único puente viable entre el dominio microscópico de las masas atómicas y las básculas de laboratorio.",
+"Cuantifica la proporción de entidades elementales agrupando sistemáticamente cantidades del orden de magnitud de diez a la veintitrés en paquetes estandarizados.",
+"Parámetro básico del Sistema Internacional que simplificó la estequiometría vinculando el gramo con el célebre número del químico italiano Avogadro.",
+"Unidad base universal utilizada empíricamente para expresar y medir la cantidad macroscópica de sustancia o moléculas en un compuesto químico."
+]
+},
+{
+"palabra": "hemisferio",
+"tipo": "sustantivo",
+"pistas": [
+"La aparente aceleración rotacional de Coriolis invierte su sentido de giro ciclónico dependiendo estrictamente de cuál de estas dos zonas se esté observando.",
+"Resultado volumétrico exacto de dividir un sólido isótropo perfectamente redondo mediante un corte plano que pasa justo por su centro de masa.",
+"En la disciplina de la geofísica planetaria y la navegación clásica, el ecuador actúa como la frontera inmaterial que separa estas dos regiones opuestas.",
+"Cualquiera de las dos mitades simétricas de una esfera geométrica, término empleado comúnmente para dividir a nuestro planeta en su parte norte y sur."
+]
+},
+{
+"palabra": "supernova",
+"tipo": "sustantivo",
+"pistas": [
+"Su curva de luz transitoria alcanza un pico tan monstruoso que durante unas semanas consigue eclipsar por completo la luminosidad conjunta de toda su galaxia anfitriona.",
+"Mecanismo astrofísico cataclísmico responsable de enriquecer el desolado medio interestelar al dispersar violentamente los elementos pesados forjados en el núcleo.",
+"Colapso terminal hiperactivo desencadenado por el agotamiento del combustible de fusión de una gigante roja o la acreción excesiva sobre una frágil enana blanca.",
+"Fenómeno astronómico definitivo consistente en la explosión deslumbrante, violenta y destructiva de una estrella masiva al alcanzar los últimos instantes de su vida."
+]
+},
+{
+"palabra": "prisma",
+"tipo": "sustantivo",
+"pistas": [
+"El ilustre Newton lo manipuló hábilmente en una habitación en penumbras para demostrar irrefutablemente que la luz del sol estaba intrínsecamente mezclada.",
+"Objeto dieléctrico macizo cuyas caras no paralelas explotan el hecho de que el índice de refracción de un material siempre depende sutilmente de la frecuencia.",
+"Dispositivo óptico elemental en los laboratorios clásicos que logra la dispersión cromática completa forzando a un haz incidente a cambiar bruscamente de dirección.",
+"Pieza transparente de vidrio pulido, casi siempre de base triangular, famosa por descomponer un rayo de luz blanca en la conocida banda del arcoíris."
+]
+},
+{
+"palabra": "helio",
+"tipo": "sustantivo",
+"pistas": [
+"Contra todo sentido común terrestre, la evidencia espectral de este gas noble fue analizada en la cromosfera del sol varias décadas antes de ser hallado bajo nuestros pies.",
+"Elemento que ostenta el récord físico del punto de ebullición más próximo al cero absoluto, volviéndolo indispensable para refrigerar enormes electroimanes superconductores.",
+"Segundo escalón en la nucleosíntesis primordial que actualmente se produce en cantidades ingentes en el núcleo estelar a expensas de la lenta fusión del hidrógeno.",
+"Elemento atómico inerte extremadamente ligero de número atómico dos, popularmente comercializado para mantener globos festivos y aeronaves flotando en el aire."
+]
+},
+{
+"palabra": "kepler",
+"tipo": "nombre_propio",
+"pistas": [
+"Tomó posesión de los exhaustivos y precisos registros astronómicos de su mentor Tycho Brahe para demoler finalmente el sagrado dogma clásico del movimiento circular perfecto.",
+"Comprobó empíricamente mediante cálculos titánicos que la línea imaginaria trazada desde el Sol barre inexorablemente áreas geométricas iguales durante intervalos temporales idénticos.",
+"Legó a la humanidad tres preceptos cinemáticos magistrales sobre el sistema solar que posteriormente nutrieron la formulación gravitatoria universal del genio de Cambridge.",
+"Astrónomo y matemático alemán del siglo diecisiete mundialmente reverenciado por descubrir que la verdadera ruta orbital de los planetas describe una elipse."
+]
+},
+{
+"palabra": "aproximar",
+"tipo": "verbo",
+"pistas": [
+"Es una concesión metodológica inevitable cuando el sistema de ecuaciones diferenciales no lineales que gobierna un fenómeno real carece flagrantemente de una solución analítica de forma cerrada.",
+"Acción de simplificar un modelo riguroso amputando términos de orden superior para hacerlo dócilmente manejable, asumiendo que el error cometido no invalidará la esencia cualitativa.",
+"Procedimiento heurístico o numérico rutinario aplicado al truncar la serie de Taylor para facilitar la evaluación de comportamientos físicos complejos en la vecindad de un punto.",
+"Acción de estimar con cuidado un valor teórico prescindiendo de la precisión absoluta; ten en mente el verbo conjugado en su tiempo base infinitivo para responder."
+]
+},
+{
+"palabra": "bobina",
+"tipo": "sustantivo",
+"pistas": [
+"Su robusta inercia eléctrica inherente reacciona generando una fuerza contraelectromotriz tenaz frente a cualquier variación brusca del flujo que la atraviesa.",
+"Componente pasivo de los circuitos de corriente alterna configurado arquitectónicamente para acumular energía potencial en forma de campo magnético dinámico en su núcleo.",
+"Pieza de inductancia pura, modelada clásicamente según la ley de Faraday, que actúa acoplada a un condensador para constituir resonadores de radiofrecuencia estables.",
+"Arrollamiento helicoidal de hilo conductor aislado, habitualmente conocido como solenoide, que produce un intenso flujo magnético direccional al conectarse."
+]
+},
+{
+"palabra": "bohr",
+"tipo": "nombre_propio",
+"pistas": [
+"Evacuado en secreto durante el conflicto bélico europeo, transformó su prestigioso instituto nórdico en el ágora principal para debatir la interpretación estadística y el azar.",
+"Postuló heréticamente que el momento angular orbital sólo podía adquirir valores múltiplos de la constante reducida de Planck para evitar el colapso radiativo clásico.",
+"Ensambló un híbrido teórico histórico asumiendo que los corpúsculos saltan instantáneamente de una órbita estacionaria a otra, irradiando cuantos de luz bien definidos.",
+"Famosísimo físico danés que imaginó intuitivamente el interior atómico como un sistema planetario microscópico con niveles de energía estrictamente cuantizados."
+]
+},
+{
+"palabra": "aluminio",
+"tipo": "sustantivo",
+"pistas": [
+"Pese a poseer una altísima reactividad innata, se defiende tenazmente del ambiente desarrollando una fina e impenetrable coraza espontánea que frena en seco la oxidación posterior.",
+"Metal de transición paramagnético, notable por su bajísima densidad de masa, que se posicionó como el rey absoluto en la aleación de fuselajes para la primera era aeronáutica.",
+"Excelente disipador térmico que ocupa el puesto del grupo del boro en el orden de la tabla periódica, siendo paradójicamente el metal con mayor abundancia atrapado en la corteza terrestre.",
+"Elemento ligero de número atómico trece y tonalidad plateada mate que vemos diariamente envolviendo alimentos, empaquetado en gruesos rollos o conformando latas de refrescos."
+]
+},
+{
+"palabra": "convección",
+"tipo": "sustantivo",
+"pistas": [
+"Su ciclo de retroalimentación térmica genera las imponentes células de circulación atmosférica responsables de direccionar los patrones de los vientos alisios a escala global.",
+"Mecanismo termodinámico impulsado activamente por la flotabilidad, desencadenado debido al impacto directo de la expansión por calentamiento diferencial de un material.",
+"Modo de transporte térmico macroscópico que rige el lento fluir del manto geológico profundo, distinguiéndose de la transmisión por contacto directo o emisión de fotones.",
+"Movimiento continuo y vertical de grandes masas de líquidos o gases calientes que ascienden naturalmente desplazando hacia abajo a los sectores circundantes más fríos."
+]
 }
 ]

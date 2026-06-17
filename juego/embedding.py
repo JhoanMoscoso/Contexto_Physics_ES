@@ -34,10 +34,21 @@ class Embedding:
         rank = int((sims > sim_guess).sum()) + 1
         return rank, sim_guess
 
+    def ranking_completo(self, target: str):
+        """Devuelve (sims, ranks) para TODO el vocabulario respecto al target.
+
+        ranks[i] es el rank de la palabra de índice i (1 = más similar).
+        Pensado para un cálculo único por target (no usa el cache de _sims
+        más allá de esta sola llamada).
+        """
+        if target not in self.word2id:
+            raise KeyError(target)
+        sims = self._sims(target)
+        orden_desc = np.argsort(-sims)
+        ranks = np.empty_like(orden_desc)
+        ranks[orden_desc] = np.arange(1, len(sims) + 1)
+        return sims, ranks
+
     @property
     def total_vocab(self) -> int:
         return len(self.id2word)
-
-
-# Instancia global inicializada en JuegoConfig.ready()
-EMBEDDING: "Embedding | None" = None

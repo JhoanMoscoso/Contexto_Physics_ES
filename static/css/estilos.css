@@ -29,6 +29,19 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Vista de juego ───────────────────────────────── */
+#vista-juego {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#vista-juego[hidden] {
+  display: none;
 }
 
 /* ── Cabecera ─────────────────────────────────────── */
@@ -42,6 +55,12 @@ body {
   position: sticky;
   top: 0;
   z-index: 10;
+}
+
+.logo-juego-mini {
+  width: 36px;
+  height: 36px;
+  align-self: center;
 }
 
 .titulo {
@@ -65,6 +84,28 @@ body {
 
 .sep {
   opacity: 0.5;
+}
+
+.btn-dado {
+  margin-left: auto;
+  background: transparent;
+  border: 1.5px solid var(--borde);
+  border-radius: var(--radio);
+  font-size: 1.25rem;
+  line-height: 1;
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.15s;
+}
+
+.btn-dado:hover {
+  border-color: var(--verde-azulado);
+  transform: rotate(-8deg);
+}
+
+.btn-dado:focus-visible {
+  outline: 3px solid var(--verde-lima);
+  outline-offset: 2px;
 }
 
 /* ── Layout principal ─────────────────────────────── */
@@ -166,12 +207,25 @@ body {
   cursor: not-allowed;
 }
 
-/* ── Mensaje de error ─────────────────────────────── */
-.mensaje-error {
-  margin-top: 0.6rem;
+/* ── Mensaje de error (toast global, visible en cualquier vista) ── */
+.mensaje-error-global {
+  position: fixed;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--verde-oscuro);
+  color: #fff;
+  padding: 0.6rem 1.25rem;
+  border-radius: var(--radio);
   font-size: 0.875rem;
-  color: var(--verde-azulado);
-  min-height: 1.2em;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  z-index: 200;
+  max-width: 90%;
+  text-align: center;
+}
+
+.mensaje-error-global[hidden] {
+  display: none;
 }
 
 /* ── Sección pistas ───────────────────────────────── */
@@ -278,6 +332,12 @@ body {
   font-weight: 700;
 }
 
+/* Último intento — para encontrarlo rápido en la lista ordenada por rank */
+.intento-fila.ultimo-intento {
+  outline: 2px solid var(--verde-azulado);
+  background: rgba(14, 119, 116, 0.07);
+}
+
 /* ── Banner victoria ──────────────────────────────── */
 .banner-victoria {
   position: fixed;
@@ -318,6 +378,249 @@ body {
 .banner-contenido strong {
   color: var(--verde-azulado);
   font-size: 1.3rem;
+}
+
+.texto-logro {
+  font-weight: 600;
+  color: var(--verde-oscuro);
+}
+
+/* ── Stats de victoria ────────────────────────────── */
+.seccion-stats-victoria {
+  background: var(--superficie);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  padding: 1.25rem;
+  box-shadow: var(--sombra);
+}
+
+.seccion-stats-victoria[hidden] {
+  display: none;
+}
+
+.titulo-stats {
+  font-size: 1.15rem;
+  color: var(--verde-oscuro);
+  margin-bottom: 0.75rem;
+}
+
+.lista-stats {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.lista-stats li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.95rem;
+}
+
+.stats-etiqueta {
+  color: var(--texto-suave);
+}
+
+.stats-valor {
+  font-weight: 700;
+  color: var(--verde-azulado);
+}
+
+.seccion-stats-victoria #btn-jugar-de-nuevo {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+/* ── Lobby ─────────────────────────────────────────── */
+.vista-lobby {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.vista-lobby[hidden] {
+  display: none;
+}
+
+.lobby-contenido {
+  background: var(--superficie);
+  border: 1px solid var(--borde);
+  border-radius: 16px;
+  padding: 2.5rem 2rem;
+  text-align: center;
+  max-width: 420px;
+  width: 100%;
+  box-shadow: var(--sombra);
+}
+
+.logo-lobby {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 1rem;
+  animation: flotar 5s ease-in-out infinite;
+}
+
+@keyframes flotar {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50%      { transform: translateY(-10px) scale(1.04); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo-lobby {
+    animation: none;
+  }
+}
+
+.lobby-contenido .titulo {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.lobby-subtitulo {
+  color: var(--texto-suave);
+  margin-bottom: 1.75rem;
+}
+
+.lobby-acciones {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.btn-grande {
+  width: 100%;
+  padding: 0.85rem 1.25rem;
+  font-size: 1.05rem;
+}
+
+/* ── Instrucciones ─────────────────────────────────── */
+.vista-instrucciones {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.vista-instrucciones[hidden] {
+  display: none;
+}
+
+.instrucciones-contenido {
+  background: var(--superficie);
+  border: 1px solid var(--borde);
+  border-radius: 16px;
+  padding: 2rem;
+  max-width: 560px;
+  width: 100%;
+  box-shadow: var(--sombra);
+}
+
+.instrucciones-contenido h2 {
+  color: var(--verde-oscuro);
+  margin-bottom: 1rem;
+}
+
+.lista-instrucciones {
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.lista-instrucciones li {
+  color: var(--texto);
+  line-height: 1.5;
+}
+
+.lista-instrucciones strong {
+  color: var(--verde-azulado);
+}
+
+.instrucciones-acciones {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+/* ── Footer ────────────────────────────────────────── */
+.pie-pagina {
+  width: 100%;
+  background: var(--superficie);
+  border-top: 1px solid var(--borde);
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+  color: var(--texto-suave);
+}
+
+.pie-pagina a {
+  color: var(--verde-azulado);
+  text-decoration: none;
+}
+
+.pie-pagina a:hover {
+  text-decoration: underline;
+}
+
+.footer-logo-udea {
+  height: 28px;
+  width: auto;
+}
+
+.footer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+/* ── Modal de confirmación (nuevo juego) ──────────── */
+.modal-confirmacion {
+  position: fixed;
+  inset: 0;
+  background: rgba(16, 32, 25, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 110;
+}
+
+.modal-confirmacion[hidden] {
+  display: none;
+}
+
+.modal-confirmacion .modal-contenido {
+  background: var(--superficie);
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  max-width: 380px;
+  width: 90%;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
+}
+
+.modal-confirmacion h2 {
+  font-size: 1.3rem;
+  color: var(--texto);
+  margin-bottom: 0.5rem;
+}
+
+.modal-confirmacion p {
+  color: var(--texto-suave);
+  margin-bottom: 1.25rem;
+}
+
+.modal-acciones {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
 }
 
 /* ── Responsive ───────────────────────────────────── */

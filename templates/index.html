@@ -5,51 +5,160 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Contexto Física</title>
   {% load static %}
+  <link rel="icon" type="image/x-icon" href="{% static 'media/favicon_ginkgo.ico' %}" />
   <link rel="stylesheet" href="{% static 'css/estilos.css' %}" />
 </head>
 <body>
-  <header class="cabecera">
-    <h1 class="titulo">Contexto <span class="titulo-fisica">Física</span></h1>
-    <div class="contador-cabecera">
-      <span id="contador-intentos">0 intentos</span>
-      <span class="sep">·</span>
-      <span id="contador-pistas">0 pistas usadas</span>
+  <p id="mensaje-error" class="mensaje-error-global" aria-live="polite" hidden></p>
+
+  <div id="vista-lobby" class="vista-lobby">
+    <div class="lobby-contenido">
+      <img
+        src="{% static 'media/logo_contexto.png' %}"
+        alt="Contexto Física"
+        class="logo-lobby"
+      />
+      <h1 class="titulo"><span class="titulo-fisica">Física</span></h1>
+      <p class="lobby-subtitulo">Adivina la palabra secreta de física por similitud semántica.</p>
+      <div class="lobby-acciones">
+        <button id="btn-jugar" class="btn-primario btn-grande">Jugar</button>
+        <button id="btn-instrucciones" class="btn-secundario btn-grande">Instrucciones</button>
+      </div>
     </div>
-  </header>
+  </div>
 
-  <main class="contenido">
-    <section class="seccion-input">
-      <form id="forma-guess" autocomplete="off">
-        <input
-          id="input-palabra"
-          type="text"
-          placeholder="Escribe una palabra de física..."
-          autocomplete="off"
-          spellcheck="false"
-        />
-        <button type="submit" class="btn-primario">Adivinar</button>
-      </form>
-      <p id="mensaje-error" class="mensaje-error" aria-live="polite"></p>
-    </section>
+  <div id="vista-instrucciones" class="vista-instrucciones" hidden>
+    <div class="instrucciones-contenido">
+      <h2>¿Cómo se juega?</h2>
+      <ol class="lista-instrucciones">
+        <li>Hay una palabra secreta de física. Escribe cualquier palabra relacionada con "Física" y presioná "Adivinar".</li>
+        <li>
+          El sistema compara tu palabra con la secreta usando <strong>similitud de coseno entre
+          sus embeddings</strong> y te muestra el <strong>ranking</strong>: qué tan cerca está tu
+          palabra de la secreta entre todo el vocabulario. Rank #1 significa que ganaste.
+        </li>
+        <li>
+          La barra de color es una pista visual rápida: verde oscuro = exactísimo, verde lima =
+          muy cerca, turquesa = cerca, verde azulado = lejos, gris = muy lejos.
+        </li>
+        <li>
+          Las <strong>pistas</strong> se desbloquean con el tiempo: la primera al minuto 1, la
+          segunda a los 3 minutos, la tercera a los 5 y la última a los 8.
+        </li>
+        <li>
+          Puedes empezar un juego nuevo en cualquier momento con el botón de dado (o el botón
+          que aparece al ganar) — vas a jugar con una palabra al azar entre las disponibles. (300 palabras para adivinar, +18000 guesses disponibles)
+        </li>
+      </ol>
+      <div class="instrucciones-acciones">
+        <button id="btn-volver-lobby" class="btn-secundario">Volver</button>
+        <button id="btn-jugar-desde-instrucciones" class="btn-primario">Jugar</button>
+      </div>
+    </div>
+  </div>
 
-    <section class="seccion-pistas" id="seccion-pistas">
-      <button id="btn-pista" class="btn-secundario">Revelar pista</button>
-      <ol id="lista-pistas" class="lista-pistas"></ol>
-    </section>
+  <div id="vista-juego" hidden>
+    <header class="cabecera">
+      <img
+        src="{% static 'media/logo_contexto.png' %}"
+        alt="Contexto Física"
+        class="logo-juego-mini"
+      />
+      <h1 class="titulo">Contexto <span class="titulo-fisica">Física</span></h1>
+      <div class="contador-cabecera">
+        <span id="contador-intentos">0 intentos</span>
+        <span class="sep">·</span>
+        <span id="contador-pistas">0 pistas usadas</span>
+        <span class="sep">·</span>
+        <span id="contador-timer">0:00</span>
+      </div>
+      <button id="btn-nuevo-juego" class="btn-dado" title="Nuevo juego" aria-label="Nuevo juego">🎲</button>
+    </header>
 
-    <section class="seccion-intentos" id="seccion-intentos">
-      <h2 class="subtitulo">Intentos</h2>
-      <ul id="lista-intentos" class="lista-intentos" aria-label="Lista de intentos"></ul>
-    </section>
-  </main>
+    <main class="contenido">
+      <section class="seccion-input">
+        <form id="forma-guess" autocomplete="off">
+          <input
+            id="input-palabra"
+            type="text"
+            placeholder="Escribe una palabra de física..."
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button type="submit" class="btn-primario">Adivinar</button>
+        </form>
+      </section>
+
+      <section class="seccion-stats-victoria" id="seccion-stats-victoria" hidden>
+        <h2 class="titulo-stats">¡Felicidades!</h2>
+        <ul class="lista-stats">
+          <li>
+            <span class="stats-etiqueta">Tiempo transcurrido</span>
+            <span id="stats-tiempo" class="stats-valor"></span>
+          </li>
+          <li>
+            <span class="stats-etiqueta">Pistas usadas</span>
+            <span id="stats-pistas" class="stats-valor"></span>
+          </li>
+        </ul>
+        <button id="btn-jugar-de-nuevo" class="btn-primario">Jugar de nuevo</button>
+      </section>
+
+      <section class="seccion-pistas" id="seccion-pistas">
+        <button id="btn-pista" class="btn-secundario">Revelar pista</button>
+        <ol id="lista-pistas" class="lista-pistas"></ol>
+      </section>
+
+      <section class="seccion-intentos" id="seccion-intentos">
+        <h2 class="subtitulo">Intentos</h2>
+        <ul id="lista-intentos" class="lista-intentos" aria-label="Lista de intentos"></ul>
+      </section>
+    </main>
+  </div>
 
   <div id="banner-victoria" class="banner-victoria" hidden>
     <div class="banner-contenido">
       <h2>¡Lo lograste!</h2>
       <p>La palabra era <strong id="palabra-revelada"></strong></p>
+      <p id="texto-logro" class="texto-logro"></p>
       <p id="texto-victoria"></p>
     </div>
   </div>
+
+  <div id="modal-nuevo-juego" class="modal-confirmacion" hidden>
+    <div class="modal-contenido">
+      <h2>¿Empezar un juego nuevo?</h2>
+      <p>Vas a perder el progreso de la palabra actual.</p>
+      <div class="modal-acciones">
+        <button id="btn-cancelar-nuevo-juego" class="btn-secundario">Cancelar</button>
+        <button id="btn-confirmar-nuevo-juego" class="btn-primario">Sí, nuevo juego</button>
+      </div>
+    </div>
+  </div>
+
+  <footer class="pie-pagina">
+    <img
+      src="{% static 'media/UdeA_logo.png' %}"
+      alt="Universidad de Antioquia"
+      class="footer-logo-udea"
+    />
+    <span class="sep">·</span>
+    <a href="https://github.com/JhoanMoscoso" target="_blank" rel="noopener noreferrer" class="footer-link">
+      <svg viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-hidden="true">
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38
+          0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13
+          -.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66
+          .07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15
+          -.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27
+          .68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12
+          .51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48
+          0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+      </svg>
+      GitHub
+    </a>
+    <span class="sep">·</span>
+    <a href="https://ginkgo.vardpri.com/" target="_blank" rel="noopener noreferrer">ginkgo.vardpri.com</a>
+  </footer>
 
   <script src="{% static 'js/juego.js' %}"></script>
 </body>
