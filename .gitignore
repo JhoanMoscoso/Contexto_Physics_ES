@@ -1,0 +1,5 @@
+.claude/
+venv/
+.env
+*.sqlite3
+
